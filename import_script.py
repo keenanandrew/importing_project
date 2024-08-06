@@ -9,36 +9,47 @@ def csv_to_nested_json(csv_file_path):
     all_series = {}
 
     organisers = [
-        {"user_id": 1, "credited_organiser": False},
-        {"user_id": 12, "credited_organiser": False},
-        {"user_id": 13, "credited_organiser": False},
+        {'user_id': 1, 'credited_organiser': False},
+        {'user_id': 36670, 'credited_organiser': True},
+        {'user_id': 36752, 'credited_organiser': True},
     ]
 
-    for index, row in df.iterrows():
-        if row["series_name"] not in all_series:
-            all_series[row["series_name"]] = { 'description': None, 'events': [] }
+    organisation_id = 119463
+    visibility = 'open'
+    owner_id = 1
+    series_type = 'symposium'
 
-        series = all_series[row["series_name"]]
+    for index, row in df.iterrows():
+        if row['series_name'] not in all_series:
+            all_series[row['series_name']] = { 'description': 'There will be a description here soon', 'events': [] }
+
+        series = all_series[row['series_name']]
 
         series['name'] = row['series_name']
-        series['description'] = row["description"]
+        series['owner_id'] = owner_id
+        series['type'] = series_type
+        series['description'] = row['description']
+        series['organisers'] = organisers,
 
         series['events'].append({
-            "start": row["event_start"],
-            "end": row["event_end"],
-            "timezone": row["event_timezone"],
-            "status": row["event_status"],
-            "talks": [
+            'start': row['event_start'],
+            'end': row['event_end'],
+            'timezone': row['event_timezone'],
+            'status': row['event_status'],
+            'talks': [
                 {
-                    'title': row["talk_title"],
-                    'abstract': row["talk_abstract"],
+                    'title': row['talk_title'],
+                    'abstract': row['talk_abstract'],
                     'speakers': [{
-                        "name": row["speaker_name"],
-                        "email": row["speaker_email"],
+                        'name': row['speaker_name'],
+                        'email': row['speaker_email'],
+
                     }],
                 }
             ],
-            "organisers": organisers,
+            'organisers': organisers,
+            'organisation_id': organisation_id,
+            'visibility': visibility
         })
 
     output = {
