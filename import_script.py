@@ -16,7 +16,7 @@ def csv_to_nested_json(csv_file_path):
     # TODO: handle video upload urls in own object 
 
     # static organiser information
-    organisers = [ 
+    series_organisers = [ 
         {'user_id': 1, 'credited_organiser': False},
         {'user_id': 36670, 'credited_organiser': True},
         {'user_id': 36752, 'credited_organiser': True},
@@ -33,7 +33,7 @@ def csv_to_nested_json(csv_file_path):
         series['name'] = row['series_name']
         series['owner_id'] = row['owner_id']
         series['type'] = row['type']
-        series['organisers'] = organisers        
+        series['series_organisers'] = series_organisers        
         series['description'] = row['description']
         series['visibility'] = row['visibility']
         series['organisation_id'] = row['organisation_id']
@@ -87,12 +87,12 @@ def csv_to_nested_json(csv_file_path):
 # so this is returning each MVIF separately but sequentially
 
 # Replace 'your_file.csv' with the path to your CSV file
-csv_file_path = 'input.csv'
-json_data = csv_to_nested_json(csv_file_path) # this is where it actually becomes a file
+csv_file_path = 'MVIF 1-5'
+json_data = csv_to_nested_json(csv_file_path + '.csv') # this is where it actually becomes a file
 
 # Pretty-print the JSON data
 print(json.dumps(json_data, indent=4))
 
 # Optionally, write the JSON data to a file
-with open('output.json', 'w', encoding='utf-8') as jsonfile:
+with open(csv_file_path + '.json', 'w', encoding='utf-8') as jsonfile:
     json.dump(json_data, jsonfile, indent=4)
