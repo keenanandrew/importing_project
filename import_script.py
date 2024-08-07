@@ -8,8 +8,11 @@ def csv_to_nested_json(csv_file_path):
 
     all_series = {} # create an empty dictionary 
 
-    # fixed information
+    # TODO: make fixed information dynamic
+    # TODO: handle img urls in own object
+    # TODO: handle video upload urls in own object 
     # make these dynamic later
+
 
     organisation_id = 119463
     visibility = 'open'
