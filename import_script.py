@@ -6,22 +6,28 @@ import pandas as pd
 def csv_to_nested_json(csv_file_path):
     df = pd.read_csv(csv_file_path)
 
-    all_series = {}
+    all_series = {} # create an empty dictionary 
 
-    organisers = [
-        {'user_id': 1, 'credited_organiser': False},
-        {'user_id': 36670, 'credited_organiser': True},
-        {'user_id': 36752, 'credited_organiser': True},
-    ]
+    # fixed information
+    # make these dynamic later
 
     organisation_id = 119463
     visibility = 'open'
     owner_id = 1
     series_type = 'symposium'
+    organisers = [ # the static organiser information
+        {'user_id': 1, 'credited_organiser': False},
+        {'user_id': 36670, 'credited_organiser': True},
+        {'user_id': 36752, 'credited_organiser': True},
+    ]
 
-    for index, row in df.iterrows():
-        if row['series_name'] not in all_series:
-            all_series[row['series_name']] = { 'description': 'There will be a description here soon', 'events': [] }
+
+    for index, row in df.iterrows(): # loops through all rows in the CSV file
+        if row['series_name'] not in all_series: # if series_name not already in dict...
+            # all_series[row['series_name']] = { 'description': 'There will be a description here soon', 'events': [] }
+
+            all_series[row['series_name']] = {'events': [] }
+
 
         series = all_series[row['series_name']]
 
@@ -32,24 +38,24 @@ def csv_to_nested_json(csv_file_path):
         series['organisers'] = organisers,
 
         series['events'].append({
-            'start': row['event_start'],
-            'end': row['event_end'],
+            'start': row['start'],
+            'end': row['end'],
             'timezone': row['event_timezone'],
-            'status': row['event_status'],
+            'status': row['status'],
             'talks': [
                 {
                     'title': row['talk_title'],
-                    'abstract': row['talk_abstract'],
+                    'abstract': row['abstract'],
                     'speakers': [{
                         'name': row['speaker_name'],
-                        'email': row['speaker_email'],
+                        'email': row['email'],
 
                     }],
                 }
             ],
-            'organisers': organisers,
-            'organisation_id': organisation_id,
-            'visibility': visibility
+            # 'organisers': organisers,
+            # 'organisation_id': organisation_id,
+            # 'visibility': visibility
         })
 
     output = {
@@ -61,7 +67,7 @@ def csv_to_nested_json(csv_file_path):
 
 
 # Replace 'your_file.csv' with the path to your CSV file
-csv_file_path = 'file_for_import1.csv'
+csv_file_path = 'input.csv'
 json_data = csv_to_nested_json(csv_file_path) # 
 
 # Pretty-print the JSON data

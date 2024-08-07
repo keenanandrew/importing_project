@@ -1,7 +1,6 @@
 {
     "event_series": [
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2021-09-14 10:00:00",
@@ -19,23 +18,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-09-14 11:00:00",
@@ -53,23 +36,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-09-14 12:00:00",
@@ -87,23 +54,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-09-14 13:00:00",
@@ -121,23 +72,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-09-14 14:00:00",
@@ -155,23 +90,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-09-14 15:00:00",
@@ -189,28 +108,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.1",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.1 Description goes here",
             "organisers": [
                 [
                     {
@@ -229,7 +133,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2021-10-14 10:00:00",
@@ -247,23 +150,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-10-14 11:00:00",
@@ -281,23 +168,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-10-14 12:00:00",
@@ -315,23 +186,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-10-14 13:00:00",
@@ -349,23 +204,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-10-14 14:00:00",
@@ -383,28 +222,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.2",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.2 Description goes here",
             "organisers": [
                 [
                     {
@@ -423,7 +247,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2021-11-09 10:00:00",
@@ -441,23 +264,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 11:00:00",
@@ -475,23 +282,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 12:00:00",
@@ -509,23 +300,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 13:00:00",
@@ -543,23 +318,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 14:00:00",
@@ -577,23 +336,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 15:00:00",
@@ -611,23 +354,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 16:00:00",
@@ -645,23 +372,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 17:00:00",
@@ -679,23 +390,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 18:00:00",
@@ -713,23 +408,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 19:00:00",
@@ -747,23 +426,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-11-09 20:00:00",
@@ -781,28 +444,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.3",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.3 Description goes here",
             "organisers": [
                 [
                     {
@@ -821,7 +469,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2021-12-08 10:00:00",
@@ -839,23 +486,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 11:00:00",
@@ -873,23 +504,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 12:00:00",
@@ -907,23 +522,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 13:00:00",
@@ -941,23 +540,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 14:00:00",
@@ -975,23 +558,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 15:00:00",
@@ -1009,23 +576,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 16:00:00",
@@ -1043,23 +594,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2021-12-08 17:00:00",
@@ -1077,28 +612,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.4",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.4 Description goes here",
             "organisers": [
                 [
                     {
@@ -1117,7 +637,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-01-11 10:00:00",
@@ -1135,23 +654,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 11:00:00",
@@ -1169,23 +672,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 12:00:00",
@@ -1203,23 +690,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 13:00:00",
@@ -1237,23 +708,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 14:00:00",
@@ -1271,23 +726,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 15:00:00",
@@ -1305,23 +744,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-01-11 16:00:00",
@@ -1339,28 +762,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.5",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.5 Description goes here",
             "organisers": [
                 [
                     {
@@ -1379,7 +787,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-02-08 10:00:00",
@@ -1397,23 +804,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-02-08 11:00:00",
@@ -1431,23 +822,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-02-08 12:00:00",
@@ -1465,23 +840,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-02-08 13:00:00",
@@ -1499,23 +858,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-02-08 14:00:00",
@@ -1533,23 +876,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-02-08 15:00:00",
@@ -1567,28 +894,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.6",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.6 Description goes here",
             "organisers": [
                 [
                     {
@@ -1607,7 +919,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-03-08 10:00:00",
@@ -1625,23 +936,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 11:00:00",
@@ -1659,23 +954,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 12:00:00",
@@ -1693,23 +972,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 13:00:00",
@@ -1727,23 +990,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 14:00:00",
@@ -1761,23 +1008,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 15:00:00",
@@ -1795,23 +1026,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-03-08 16:00:00",
@@ -1829,28 +1044,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.7",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.7 Description goes here",
             "organisers": [
                 [
                     {
@@ -1869,7 +1069,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-04-12 10:00:00",
@@ -1887,23 +1086,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-04-12 11:00:00",
@@ -1921,23 +1104,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-04-12 12:00:00",
@@ -1955,23 +1122,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-04-12 13:00:00",
@@ -1989,23 +1140,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-04-12 14:00:00",
@@ -2023,23 +1158,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-04-12 15:00:00",
@@ -2057,28 +1176,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.8",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.8 Description goes here",
             "organisers": [
                 [
                     {
@@ -2097,7 +1201,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-05-10 10:00:00",
@@ -2115,23 +1218,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-05-10 11:00:00",
@@ -2149,23 +1236,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-05-10 12:00:00",
@@ -2183,23 +1254,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-05-10 13:00:00",
@@ -2217,23 +1272,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-05-10 14:00:00",
@@ -2251,28 +1290,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.9",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.9 Description goes here",
             "organisers": [
                 [
                     {
@@ -2291,7 +1315,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-06-15 10:00:00",
@@ -2309,23 +1332,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-06-15 11:00:00",
@@ -2343,23 +1350,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-06-15 12:00:00",
@@ -2377,23 +1368,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-06-15 13:00:00",
@@ -2411,23 +1386,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-06-15 14:00:00",
@@ -2445,28 +1404,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.10",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.10 Description goes here",
             "organisers": [
                 [
                     {
@@ -2485,7 +1429,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-09-13 10:00:00",
@@ -2503,23 +1446,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-09-13 11:00:00",
@@ -2537,23 +1464,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-09-13 12:00:00",
@@ -2571,23 +1482,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-09-13 13:00:00",
@@ -2605,23 +1500,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-09-13 14:00:00",
@@ -2639,28 +1518,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.11",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.11 Description goes here",
             "organisers": [
                 [
                     {
@@ -2679,7 +1543,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-10-18 10:00:00",
@@ -2697,23 +1560,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-10-18 11:00:00",
@@ -2731,23 +1578,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-10-18 12:00:00",
@@ -2765,23 +1596,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-10-18 13:00:00",
@@ -2799,23 +1614,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-10-18 14:00:00",
@@ -2833,23 +1632,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-10-18 15:00:00",
@@ -2867,28 +1650,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.12",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.12 Description goes here",
             "organisers": [
                 [
                     {
@@ -2907,7 +1675,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-11-08 10:00:00",
@@ -2925,23 +1692,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-11-08 11:00:00",
@@ -2959,23 +1710,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-11-08 12:00:00",
@@ -2993,23 +1728,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-11-08 13:00:00",
@@ -3027,23 +1746,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-11-08 14:00:00",
@@ -3061,23 +1764,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-11-08 15:00:00",
@@ -3095,28 +1782,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.13",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.13 Description goes here",
             "organisers": [
                 [
                     {
@@ -3135,7 +1807,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2022-12-14 10:00:00",
@@ -3153,23 +1824,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-12-14 11:00:00",
@@ -3187,23 +1842,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-12-14 12:00:00",
@@ -3221,23 +1860,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-12-14 13:00:00",
@@ -3255,23 +1878,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-12-14 14:00:00",
@@ -3289,23 +1896,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2022-12-14 15:00:00",
@@ -3323,28 +1914,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.14",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.14 Description goes here",
             "organisers": [
                 [
                     {
@@ -3363,7 +1939,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-01-16 10:00:00",
@@ -3381,23 +1956,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-01-16 11:00:00",
@@ -3415,23 +1974,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-01-16 12:00:00",
@@ -3449,23 +1992,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 12:00:00",
@@ -3483,28 +2010,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.15",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.15 Description goes here",
             "organisers": [
                 [
                     {
@@ -3523,7 +2035,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-02-15 10:00:00",
@@ -3541,23 +2052,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-02-15 11:00:00",
@@ -3575,23 +2070,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-02-15 12:00:00",
@@ -3609,23 +2088,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-02-15 13:00:00",
@@ -3643,23 +2106,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-10-17 15:00:00",
@@ -3677,28 +2124,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.16",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.16 Description goes here",
             "organisers": [
                 [
                     {
@@ -3717,7 +2149,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-03-14 10:00:00",
@@ -3735,23 +2166,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 11:00:00",
@@ -3769,23 +2184,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 13:00:00",
@@ -3803,23 +2202,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 14:00:00",
@@ -3837,23 +2220,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 15:00:00",
@@ -3871,23 +2238,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-03-14 16:00:00",
@@ -3905,28 +2256,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.17",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.17 Description goes here",
             "organisers": [
                 [
                     {
@@ -3945,7 +2281,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-04-19 10:00:00",
@@ -3963,23 +2298,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-04-19 11:00:00",
@@ -3997,23 +2316,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-04-19 12:00:00",
@@ -4031,23 +2334,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-04-19 13:00:00",
@@ -4065,28 +2352,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.18",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.18 Description goes here",
             "organisers": [
                 [
                     {
@@ -4105,7 +2377,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-05-17 10:00:00",
@@ -4123,23 +2394,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-05-17 11:00:00",
@@ -4157,23 +2412,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-05-17 12:00:00",
@@ -4191,23 +2430,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-05-17 13:00:00",
@@ -4225,23 +2448,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-05-17 14:00:00",
@@ -4259,28 +2466,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.19",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.19 Description goes here",
             "organisers": [
                 [
                     {
@@ -4299,7 +2491,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-06-21 10:00:00",
@@ -4317,23 +2508,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-06-21 11:00:00",
@@ -4351,23 +2526,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-06-21 12:00:00",
@@ -4385,23 +2544,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-06-21 13:00:00",
@@ -4419,28 +2562,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.20",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.20 Description goes here",
             "organisers": [
                 [
                     {
@@ -4459,7 +2587,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-09-19 10:00:00",
@@ -4477,23 +2604,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 11:00:00",
@@ -4511,23 +2622,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 12:00:00",
@@ -4545,23 +2640,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 13:00:00",
@@ -4579,23 +2658,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 14:00:00",
@@ -4613,23 +2676,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 15:00:00",
@@ -4647,23 +2694,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-09-19 16:00:00",
@@ -4681,28 +2712,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.21",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.21 Description goes here",
             "organisers": [
                 [
                     {
@@ -4721,7 +2737,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-10-17 10:00:00",
@@ -4739,23 +2754,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-10-17 11:00:00",
@@ -4773,23 +2772,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-10-17 12:00:00",
@@ -4807,23 +2790,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-10-17 13:00:00",
@@ -4841,23 +2808,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-10-17 14:00:00",
@@ -4875,28 +2826,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.22",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.22 Description goes here",
             "organisers": [
                 [
                     {
@@ -4915,7 +2851,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-11-14 10:00:00",
@@ -4933,23 +2868,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-11-14 11:00:00",
@@ -4967,23 +2886,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-11-14 12:00:00",
@@ -5001,23 +2904,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-11-14 13:00:00",
@@ -5035,23 +2922,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-11-14 14:00:00",
@@ -5069,23 +2940,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-11-14 15:00:00",
@@ -5103,28 +2958,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.23",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.23 Description goes here",
             "organisers": [
                 [
                     {
@@ -5143,7 +2983,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2023-12-19 10:00:00",
@@ -5161,23 +3000,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-12-19 11:00:00",
@@ -5195,23 +3018,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-12-19 12:00:00",
@@ -5229,23 +3036,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-12-19 13:00:00",
@@ -5263,23 +3054,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2023-12-19 14:00:00",
@@ -5297,28 +3072,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.24",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.24 Description goes here",
             "organisers": [
                 [
                     {
@@ -5337,7 +3097,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-01-09 10:00:00",
@@ -5355,23 +3114,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-01-09 11:00:00",
@@ -5389,23 +3132,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-01-09 12:00:00",
@@ -5423,23 +3150,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-01-09 13:00:00",
@@ -5457,28 +3168,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.25",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.25 Description goes here",
             "organisers": [
                 [
                     {
@@ -5497,7 +3193,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-02-27 10:00:00",
@@ -5515,23 +3210,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-02-27 11:00:00",
@@ -5549,23 +3228,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-02-27 12:00:00",
@@ -5583,23 +3246,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-02-27 13:00:00",
@@ -5617,23 +3264,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-02-27 14:00:00",
@@ -5651,28 +3282,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.26",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.26 Description goes here",
             "organisers": [
                 [
                     {
@@ -5691,7 +3307,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-03-20 10:00:00",
@@ -5709,23 +3324,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-03-20 11:00:00",
@@ -5743,23 +3342,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-03-20 12:00:00",
@@ -5777,23 +3360,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-03-20 13:00:00",
@@ -5811,23 +3378,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-03-20 14:00:00",
@@ -5845,23 +3396,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-03-20 15:00:00",
@@ -5879,28 +3414,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.27",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.27 Description goes here",
             "organisers": [
                 [
                     {
@@ -5919,7 +3439,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-04-17 10:00:00",
@@ -5937,23 +3456,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-04-17 11:00:00",
@@ -5971,23 +3474,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-04-17 12:00:00",
@@ -6005,23 +3492,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-04-17 13:00:00",
@@ -6039,23 +3510,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-04-17 14:00:00",
@@ -6073,23 +3528,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-04-17 15:00:00",
@@ -6107,28 +3546,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.28",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.28 Description goes here",
             "organisers": [
                 [
                     {
@@ -6147,7 +3571,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-05-21 10:00:00",
@@ -6165,23 +3588,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 11:00:00",
@@ -6199,23 +3606,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 12:00:00",
@@ -6233,23 +3624,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 13:00:00",
@@ -6267,23 +3642,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 14:00:00",
@@ -6301,23 +3660,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 15:00:00",
@@ -6335,23 +3678,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-05-21 16:00:00",
@@ -6369,28 +3696,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.29",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.29 Description goes here",
             "organisers": [
                 [
                     {
@@ -6409,7 +3721,6 @@
             ]
         },
         {
-            "description": NaN,
             "events": [
                 {
                     "start": "2024-06-11 10:00:00",
@@ -6427,23 +3738,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-06-11 11:00:00",
@@ -6461,23 +3756,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-06-11 12:00:00",
@@ -6495,23 +3774,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-06-11 13:00:00",
@@ -6529,23 +3792,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-06-11 14:00:00",
@@ -6563,23 +3810,7 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 },
                 {
                     "start": "2024-06-11 15:00:00",
@@ -6597,28 +3828,13 @@
                                 }
                             ]
                         }
-                    ],
-                    "organisers": [
-                        {
-                            "user_id": 1,
-                            "credited_organiser": false
-                        },
-                        {
-                            "user_id": 36670,
-                            "credited_organiser": true
-                        },
-                        {
-                            "user_id": 36752,
-                            "credited_organiser": true
-                        }
-                    ],
-                    "organisation_id": 119463,
-                    "visibility": "open"
+                    ]
                 }
             ],
             "name": "MVIF.30",
             "owner_id": 1,
             "type": "symposium",
+            "description": "MVIF.30 Description goes here",
             "organisers": [
                 [
                     {
