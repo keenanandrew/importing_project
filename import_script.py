@@ -35,7 +35,9 @@ def csv_to_nested_json(csv_file_path):
         series['owner_id'] = owner_id
         series['type'] = series_type
         series['description'] = row['description']
-        series['organisers'] = organisers,
+        series['organisers'] = organisers
+        series['organisation_id'] = organisation_id
+        series['visibility'] = visibility
 
         series['events'].append({
             'start': row['start'],
@@ -47,15 +49,26 @@ def csv_to_nested_json(csv_file_path):
                     'title': row['talk_title'],
                     'abstract': row['abstract'],
                     'speakers': [{
-                        'name': row['speaker_name'],
+
                         'email': row['email'],
+                        'record_meta': [{
+                            'title': row['speaker_title'],
+                            'name': row['speaker_name'],
+                            'homepage_url': row['homepage_url'],
+                            'department': row['department'],
+                            'position': row['position'],
+                            'affiliations': [
+                                row['affiliations']
+                            ]
+                        }],
+                        'record_image_file': {
+                            'url': row['_url']
+                        }
 
                     }],
                 }
             ],
-            # 'organisers': organisers,
-            # 'organisation_id': organisation_id,
-            # 'visibility': visibility
+
         })
 
     output = {
