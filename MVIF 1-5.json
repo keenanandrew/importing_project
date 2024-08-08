@@ -15,19 +15,17 @@
                             "speakers": [
                                 {
                                     "email": "ruth.ley@tuebingen.mpg.de",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Ruth Ley ",
-                                            "homepage_url": "https://www.mpg.de/9751563/biology-tuebingen-ley",
-                                            "biography": "Ruth Ley is the Director of the Department of Microbiome Science at the Max Planck Institute for Developmental Biology and a Speaker for the Cluster of Excellence \u201cControlling Microbiomes to Fight Infection\u201d with the University of Tuebingen, Germany. Since 2020 Ley is on the Scientific Council of the Institut Pasteur.",
-                                            "department": "Department of Microbiome Science",
-                                            "position": "Director",
-                                            "affiliations": [
-                                                "grid.419580.1"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Ruth Ley ",
+                                        "homepage_url": "https://www.mpg.de/9751563/biology-tuebingen-ley",
+                                        "biography": "Ruth Ley is the Director of the Department of Microbiome Science at the Max Planck Institute for Developmental Biology and a Speaker for the Cluster of Excellence \u201cControlling Microbiomes to Fight Infection\u201d with the University of Tuebingen, Germany. Since 2020 Ley is on the Scientific Council of the Institut Pasteur.",
+                                        "department": "Department of Microbiome Science",
+                                        "position": "Director",
+                                        "affiliations": [
+                                            "grid.419580.1"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/2UKzKav"
                                     }
@@ -49,19 +47,17 @@
                             "speakers": [
                                 {
                                     "email": "varunaggarwala01@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Varun Aggarwala",
-                                            "homepage_url": "https://www.jioinstitute.edu.in/faculty/dr-varun-aggarwala",
-                                            "biography": "Dr. Varun Aggarwala is an Assistant Professor and Principal Investigator of the Microbiome Therapeutics laboratory at the Jio Institute. His laboratory focuses on engineering of complex microbial communities across body sites -gut, skin, vaginal tract- using combinatorial approaches -FMT, probiotics, prebiotics, cocktail of bacteria- to target health and disease. Varun performed his doctoral research at the Perelman School of Medicine of University of Pennsylvania, focusing on problems related to personalized medicine and genetics. He furthered his training in precision therapeutics at the Icahn School of Medicine of Mount Sinai Hospital, and identified therapeutically relevant commensal gut microbes in lieu of whole stool Facal Transplants for infectious and inflammatory bowel diseases, which are being evaluated in defined clinical trials. Previously Varun did his Masters in Computer Science from University of Pennsylvania and has a BTech in Computer Science and Engineering from IIT Guwahati. His honours include the prestigious DBT Ramalingaswami re-entry fellowship, IIT Silver medal and NTSE scholarship from MHRD. The larger goal of his laboratory is to Make in India for the World, and create wealth and employment through academic research and entrepreneurship. Varun is extremely passionate about experimentation with novel pedagogical approaches in sync with National Education Policy 2020, and is offering popular classes on Probability and Statistics for Data Scientists.",
-                                            "department": "",
-                                            "position": "Assistant Professor",
-                                            "affiliations": [
-                                                "Jio Institute"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Varun Aggarwala",
+                                        "homepage_url": "https://www.jioinstitute.edu.in/faculty/dr-varun-aggarwala",
+                                        "biography": "Dr. Varun Aggarwala is an Assistant Professor and Principal Investigator of the Microbiome Therapeutics laboratory at the Jio Institute. His laboratory focuses on engineering of complex microbial communities across body sites -gut, skin, vaginal tract- using combinatorial approaches -FMT, probiotics, prebiotics, cocktail of bacteria- to target health and disease. Varun performed his doctoral research at the Perelman School of Medicine of University of Pennsylvania, focusing on problems related to personalized medicine and genetics. He furthered his training in precision therapeutics at the Icahn School of Medicine of Mount Sinai Hospital, and identified therapeutically relevant commensal gut microbes in lieu of whole stool Facal Transplants for infectious and inflammatory bowel diseases, which are being evaluated in defined clinical trials. Previously Varun did his Masters in Computer Science from University of Pennsylvania and has a BTech in Computer Science and Engineering from IIT Guwahati. His honours include the prestigious DBT Ramalingaswami re-entry fellowship, IIT Silver medal and NTSE scholarship from MHRD. The larger goal of his laboratory is to Make in India for the World, and create wealth and employment through academic research and entrepreneurship. Varun is extremely passionate about experimentation with novel pedagogical approaches in sync with National Education Policy 2020, and is offering popular classes on Probability and Statistics for Data Scientists.",
+                                        "department": "",
+                                        "position": "Assistant Professor",
+                                        "affiliations": [
+                                            "Jio Institute"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/7Iy4Ykx"
                                     }
@@ -83,19 +79,17 @@
                             "speakers": [
                                 {
                                     "email": "lisa.osbelt@helmholtz-hzi.de",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Lisa Osbelt",
-                                            "homepage_url": "https://www.linkedin.com/in/dr-lisa-osbelt-9b9410217/?originalSubdomain=de",
-                                            "biography": "I am a passionate infection-researcher with a strong motivation to unravel the complex interplay between the gut-microbiome and the host in health and disease. I firmly believe fostering creativity, nurturing curiosity, and embracing the potential for failure are essential attributes that lead to groundbreaking discoveries and pave the way for new directions in science. Currently, I am working on the development of a next-generation live biotherapeutic product (LBP) which can 1) specifically eradicate multi-resistant bacteria from the gut and 2) help to restore a healthy and well-balanced microbiome.",
-                                            "department": "",
-                                            "position": "Postdoctoral Researcher",
-                                            "affiliations": [
-                                                "grid.7490.a"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Lisa Osbelt",
+                                        "homepage_url": "https://www.linkedin.com/in/dr-lisa-osbelt-9b9410217/?originalSubdomain=de",
+                                        "biography": "I am a passionate infection-researcher with a strong motivation to unravel the complex interplay between the gut-microbiome and the host in health and disease. I firmly believe fostering creativity, nurturing curiosity, and embracing the potential for failure are essential attributes that lead to groundbreaking discoveries and pave the way for new directions in science. Currently, I am working on the development of a next-generation live biotherapeutic product (LBP) which can 1) specifically eradicate multi-resistant bacteria from the gut and 2) help to restore a healthy and well-balanced microbiome.",
+                                        "department": "",
+                                        "position": "Postdoctoral Researcher",
+                                        "affiliations": [
+                                            "grid.7490.a"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/gwJAUlB"
                                     }
@@ -117,19 +111,17 @@
                             "speakers": [
                                 {
                                     "email": "alice.mchardy@helmholtz-hzi.de",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Alice McHardy",
-                                            "homepage_url": "https://www.dzif.de/en/alice-mchardy",
-                                            "biography": "German Center for Infection Research",
-                                            "department": "Bioinformatics and Machine Learning",
-                                            "position": "Deputy Coordinator",
-                                            "affiliations": [
-                                                "grid.7490.a"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Alice McHardy",
+                                        "homepage_url": "https://www.dzif.de/en/alice-mchardy",
+                                        "biography": "German Center for Infection Research",
+                                        "department": "Bioinformatics and Machine Learning",
+                                        "position": "Deputy Coordinator",
+                                        "affiliations": [
+                                            "grid.7490.a"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/Ae3MEXV"
                                     }
@@ -151,19 +143,17 @@
                             "speakers": [
                                 {
                                     "email": "serena.manara@microbiome-vif.org",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Serena Manara",
-                                            "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
-                                            "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
-                                            "department": "Microbiome Virtual International Forum",
-                                            "position": "President ",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Serena Manara",
+                                        "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
+                                        "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
+                                        "department": "Microbiome Virtual International Forum",
+                                        "position": "President ",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/fc4svC7"
                                     }
@@ -185,19 +175,17 @@
                             "speakers": [
                                 {
                                     "email": "serena.manara@microbiome-vif.org",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Serena Manara",
-                                            "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
-                                            "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
-                                            "department": "Microbiome Virtual International Forum",
-                                            "position": "President ",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Serena Manara",
+                                        "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
+                                        "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
+                                        "department": "Microbiome Virtual International Forum",
+                                        "position": "President ",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/fc4svC7"
                                     }
@@ -210,7 +198,7 @@
             "name": "MVIF.1",
             "owner_id": 1,
             "type": "symposium",
-            "organisers": [
+            "series_organisers": [
                 {
                     "user_id": 1,
                     "credited_organiser": false
@@ -244,19 +232,17 @@
                             "speakers": [
                                 {
                                     "email": "jbanfield@berkeley.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Jill Banfield ",
-                                            "homepage_url": "https://eps.berkeley.edu/people/jill-f-banfield",
-                                            "biography": "I am a Professor in the Departments of Earth and Planetary Science and Environmental Science, Policy, and Management. I also have an appointment in the geochemistry group at Lawrence Berkeley National Laboratory. My primary research interests are in geomicrobiology and environmental microbiology. My group studies how microorganisms shape, and are shaped by, their natural environments. My research group studies microbial communities, primarily using cultivation-independent approaches such as genomics (metagenomics) and community proteomics. We work on microbial dissolution and precipitation of minerals, the structure, properties, and reactivity of nanoparticles (many of which are formed by microorganisms), microbial ecology, and microbial evolution. Virtually all of our projects are tied to a field site. Current locations of study are Iron Mountain (northern California), the Angelo Reserve (northern California), the Rifle and East River sites, Colorado, Crystal Geyser, Utah",
-                                            "department": "Departments of Earth and Planetary Science and Environmental Science, Policy, and Management",
-                                            "position": "Professor",
-                                            "affiliations": [
-                                                "grid.47840.3f"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Jill Banfield ",
+                                        "homepage_url": "https://eps.berkeley.edu/people/jill-f-banfield",
+                                        "biography": "I am a Professor in the Departments of Earth and Planetary Science and Environmental Science, Policy, and Management. I also have an appointment in the geochemistry group at Lawrence Berkeley National Laboratory. My primary research interests are in geomicrobiology and environmental microbiology. My group studies how microorganisms shape, and are shaped by, their natural environments. My research group studies microbial communities, primarily using cultivation-independent approaches such as genomics (metagenomics) and community proteomics. We work on microbial dissolution and precipitation of minerals, the structure, properties, and reactivity of nanoparticles (many of which are formed by microorganisms), microbial ecology, and microbial evolution. Virtually all of our projects are tied to a field site. Current locations of study are Iron Mountain (northern California), the Angelo Reserve (northern California), the Rifle and East River sites, Colorado, Crystal Geyser, Utah",
+                                        "department": "Departments of Earth and Planetary Science and Environmental Science, Policy, and Management",
+                                        "position": "Professor",
+                                        "affiliations": [
+                                            "grid.47840.3f"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/VRiTgUN"
                                     }
@@ -278,19 +264,17 @@
                             "speakers": [
                                 {
                                     "email": "bsiranos@stanford.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Benjamin Siranosian",
-                                            "homepage_url": "https://www.bsiranosian.com/",
-                                            "biography": "I'm Ben, a computational biologist, genomic detective, and entrepreneur.\n\nI'm currently the Head of Bioinformatics at Deep Origin, where I lead the development of our computational biology and bioinformatics products. Deep Origin has the mission to accelerate life sciences R&D through better tooling and simulation. We just launched our first product, and we're hiring!\n\nBefore that, I led the bioinformatics team at Loyal, an early-stage biotech startup dedicated to extending the lifespan and healthspan of dogs. We collected saliva samples from thousands of dogs, and built multi-omic models of aging that used methylation, genetic variants, and oral microbiome readouts.\n\nPreviously, I did my PhD in Dr. Ami Bhatt's lab at Stanford University, where I used advanced genomic techniques to study the human microbiome. I'm proud to say I characterized the first examples of bacteria transmitted between the gut microbiome of adults and of phages transmitted from the gut microbiome of a mother to the gut microbiome of her infant.",
-                                            "department": "Department of Bioinformatics ",
-                                            "position": "Head of Bioinformatics",
-                                            "affiliations": [
-                                                "Deep Origin"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Benjamin Siranosian",
+                                        "homepage_url": "https://www.bsiranosian.com/",
+                                        "biography": "I'm Ben, a computational biologist, genomic detective, and entrepreneur.\n\nI'm currently the Head of Bioinformatics at Deep Origin, where I lead the development of our computational biology and bioinformatics products. Deep Origin has the mission to accelerate life sciences R&D through better tooling and simulation. We just launched our first product, and we're hiring!\n\nBefore that, I led the bioinformatics team at Loyal, an early-stage biotech startup dedicated to extending the lifespan and healthspan of dogs. We collected saliva samples from thousands of dogs, and built multi-omic models of aging that used methylation, genetic variants, and oral microbiome readouts.\n\nPreviously, I did my PhD in Dr. Ami Bhatt's lab at Stanford University, where I used advanced genomic techniques to study the human microbiome. I'm proud to say I characterized the first examples of bacteria transmitted between the gut microbiome of adults and of phages transmitted from the gut microbiome of a mother to the gut microbiome of her infant.",
+                                        "department": "Department of Bioinformatics ",
+                                        "position": "Head of Bioinformatics",
+                                        "affiliations": [
+                                            "Deep Origin"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/ojAiVf9"
                                     }
@@ -312,19 +296,17 @@
                             "speakers": [
                                 {
                                     "email": "huangxinyu@westlake.edu.cn",
-                                    "record_meta": [
-                                        {
-                                            "title": "Ms.",
-                                            "name": "Xinyu Huang",
-                                            "homepage_url": "https://www.researchgate.net/profile/Xinyu-Huang-17",
-                                            "biography": "Xinyu Huang comes from Fujian Province, China, after she finished her bachelor's degree in biology science at Fujian Agriculture and Forestry University, she came to Hangzhou for further study in EMBLab at Westlake University as a Ph.D. student. Her current research interests mainly focus on the marine metagenome and the interdisciplinary application of bioinformatics and biotechnology.",
-                                            "department": "Environmental Microbiome and Biotechnology Laboratory",
-                                            "position": "PhD Student",
-                                            "affiliations": [
-                                                "grid.494629.4"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Ms.",
+                                        "name": "Xinyu Huang",
+                                        "homepage_url": "https://www.researchgate.net/profile/Xinyu-Huang-17",
+                                        "biography": "Xinyu Huang comes from Fujian Province, China, after she finished her bachelor's degree in biology science at Fujian Agriculture and Forestry University, she came to Hangzhou for further study in EMBLab at Westlake University as a Ph.D. student. Her current research interests mainly focus on the marine metagenome and the interdisciplinary application of bioinformatics and biotechnology.",
+                                        "department": "Environmental Microbiome and Biotechnology Laboratory",
+                                        "position": "PhD Student",
+                                        "affiliations": [
+                                            "grid.494629.4"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/bw0W3xp"
                                     }
@@ -346,19 +328,17 @@
                             "speakers": [
                                 {
                                     "email": "shaojun1997777@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Shaojun Pan",
-                                            "homepage_url": "https://www.big-data-biology.org/person/shaojun_pan/",
-                                            "biography": "He received his bachelor's degree from the School of Computer Science, Nanjing University of Science and Technology, and now is a  direct doctoral student in the Institute of Science and Technology for Brain-inspired Intelligence, Fudan University. His research interests include processing metagenomic data using machine learning methods. He has published a paper in Nature Communications as the first author.",
-                                            "department": "Institute of Science and Technology for Brain-inspired Intelligence",
-                                            "position": "PhD Student",
-                                            "affiliations": [
-                                                "grid.8547.e"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Shaojun Pan",
+                                        "homepage_url": "https://www.big-data-biology.org/person/shaojun_pan/",
+                                        "biography": "He received his bachelor's degree from the School of Computer Science, Nanjing University of Science and Technology, and now is a  direct doctoral student in the Institute of Science and Technology for Brain-inspired Intelligence, Fudan University. His research interests include processing metagenomic data using machine learning methods. He has published a paper in Nature Communications as the first author.",
+                                        "department": "Institute of Science and Technology for Brain-inspired Intelligence",
+                                        "position": "PhD Student",
+                                        "affiliations": [
+                                            "grid.8547.e"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/2ri3P4n"
                                     }
@@ -380,19 +360,17 @@
                             "speakers": [
                                 {
                                     "email": "serena.manara@microbiome-vif.org",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Serena Manara",
-                                            "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
-                                            "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
-                                            "department": "Microbiome Virtual International Forum",
-                                            "position": "President ",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Serena Manara",
+                                        "homepage_url": "https://webapps.unitn.it/du/it/Persona/PER0172853/Pubblicazioni",
+                                        "biography": "I am interested in the study of microbial communities and their metabolic pathways, in order to understand their function in the environment they live in and their potential use. I am particularly interested in metagenomics and metatranscriptomics. My goal is to keep increasing my competences and areas of interest.",
+                                        "department": "Microbiome Virtual International Forum",
+                                        "position": "President ",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/fc4svC7"
                                     }
@@ -405,7 +383,7 @@
             "name": "MVIF.2",
             "owner_id": 1,
             "type": "symposium",
-            "organisers": [
+            "series_organisers": [
                 {
                     "user_id": 1,
                     "credited_organiser": false
@@ -439,19 +417,17 @@
                             "speakers": [
                                 {
                                     "email": "Caitlin.Hall@qimrberghofer.edu.au",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Caitlin Hall",
-                                            "homepage_url": "https://www.linkedin.com/in/caitlin-hall-497280132/?originalSubdomain=uk",
-                                            "biography": "PhD in Neurosciences and Gut Microbiology (the gut-brain axis). Gut Health Dietitian (APD). Specialist in the gut microbiome, gut-brain axis, prebiotic fibres, clinical trials, research & development, women's health, product development, and science communication.",
-                                            "department": "Clinical Research",
-                                            "position": "Chief Dietitian and Head of Clinical Research",
-                                            "affiliations": [
-                                                "Myota"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Caitlin Hall",
+                                        "homepage_url": "https://www.linkedin.com/in/caitlin-hall-497280132/?originalSubdomain=uk",
+                                        "biography": "PhD in Neurosciences and Gut Microbiology (the gut-brain axis). Gut Health Dietitian (APD). Specialist in the gut microbiome, gut-brain axis, prebiotic fibres, clinical trials, research & development, women's health, product development, and science communication.",
+                                        "department": "Clinical Research",
+                                        "position": "Chief Dietitian and Head of Clinical Research",
+                                        "affiliations": [
+                                            "Myota"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/oNIv81x"
                                     }
@@ -473,19 +449,17 @@
                             "speakers": [
                                 {
                                     "email": "francesco.beghini@unitn.it",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Francesco Beghini",
-                                            "homepage_url": "https://github.com/fbeghini",
-                                            "biography": "",
-                                            "department": "Human Nature Lab",
-                                            "position": "Postdoctoral Associate",
-                                            "affiliations": [
-                                                "grid.47100.32"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Francesco Beghini",
+                                        "homepage_url": "https://github.com/fbeghini",
+                                        "biography": "",
+                                        "department": "Human Nature Lab",
+                                        "position": "Postdoctoral Associate",
+                                        "affiliations": [
+                                            "grid.47100.32"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/8J6GUHK"
                                     }
@@ -507,19 +481,17 @@
                             "speakers": [
                                 {
                                     "email": "fuyong@ualberta.ca",
-                                    "record_meta": [
-                                        {
-                                            "title": "Asst. Prof.",
-                                            "name": "Fuyong Li",
-                                            "homepage_url": "https://www.cityu.edu.hk/ph/staff/prof-fuyong-li",
-                                            "biography": "Prof. Fuyong Li is currently appointed as an Assistant Professor of Animal Nutrition at the Department of Infectious Diseases and Public Health. He received his bachelor degree in Animal Science from Northwest A&F University (2005-2009; China). After that, he conducted his master program in Europe and obtained double-master degrees in Animal Breeding and Genetics from University of Natural Resources and Life Sciences, Vienna (2010-2011; Austria) and Wageningen University (2011-2012, the Netherlands). In 2012, he joined University of Alberta for his PhD program and then achieved his PhD degree in Animal Science in 2017. Before joining City University of Hong Kong, he worked as a postdoctoral fellow at University of Alberta from Sept 2017 to Dec 2021, investigating the interactions between probiotics/prebiotics and the human host.",
-                                            "department": "Department of Infectious Diseases and Public Health",
-                                            "position": "Assistant Professor",
-                                            "affiliations": [
-                                                "grid.35030.35"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Asst. Prof.",
+                                        "name": "Fuyong Li",
+                                        "homepage_url": "https://www.cityu.edu.hk/ph/staff/prof-fuyong-li",
+                                        "biography": "Prof. Fuyong Li is currently appointed as an Assistant Professor of Animal Nutrition at the Department of Infectious Diseases and Public Health. He received his bachelor degree in Animal Science from Northwest A&F University (2005-2009; China). After that, he conducted his master program in Europe and obtained double-master degrees in Animal Breeding and Genetics from University of Natural Resources and Life Sciences, Vienna (2010-2011; Austria) and Wageningen University (2011-2012, the Netherlands). In 2012, he joined University of Alberta for his PhD program and then achieved his PhD degree in Animal Science in 2017. Before joining City University of Hong Kong, he worked as a postdoctoral fellow at University of Alberta from Sept 2017 to Dec 2021, investigating the interactions between probiotics/prebiotics and the human host.",
+                                        "department": "Department of Infectious Diseases and Public Health",
+                                        "position": "Assistant Professor",
+                                        "affiliations": [
+                                            "grid.35030.35"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/TdfQgvV"
                                     }
@@ -541,19 +513,17 @@
                             "speakers": [
                                 {
                                     "email": "gianmarco.piccinno@unitn.it",
-                                    "record_meta": [
-                                        {
-                                            "title": "Mr.",
-                                            "name": "Gianmarco Piccinno",
-                                            "homepage_url": "https://webapps.unitn.it/du/en/Persona/PER0194333/Pubblicazioni",
-                                            "biography": "",
-                                            "department": "Department of Cellular, Computational and Integrative Biology - CIBIO",
-                                            "position": "PhD Student",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Mr.",
+                                        "name": "Gianmarco Piccinno",
+                                        "homepage_url": "https://webapps.unitn.it/du/en/Persona/PER0194333/Pubblicazioni",
+                                        "biography": "",
+                                        "department": "Department of Cellular, Computational and Integrative Biology - CIBIO",
+                                        "position": "PhD Student",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/GStD8NX"
                                     }
@@ -575,19 +545,17 @@
                             "speakers": [
                                 {
                                     "email": "jl5897@cumc.columbia.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Asst. Prof.",
-                                            "name": "Jingqiu Liao",
-                                            "homepage_url": "https://www.webapps.cee.vt.edu/index.php?category=people&pagetype=bio&do=getprofile&user=jingqiuliao.html",
-                                            "biography": "Dr. Jingqiu Liao is a faculty member in the Department of Civil and Environmental Engineering. She is leading a research group, Liao Environmental and Public Health Microbiology Lab (LEAPH), studying the ecology and evolution of microbiomes, foodborne pathogens, and antimicrobial resistance in the settings of natural, agricultural, and food ecosystems. Dr. Liao\u2019s research aims to advance a mechanistic and predictive understanding of microbial diversity, composition, functioning, and environment-microbe interactions in these ecosystems by leveraging the power of multi-omics, computational biology, population genetics, machine learning, and data science. The intricate relationships between microbes and the environment hold significant potential solutions to many of the challenges posed by global changes, such as soil health, water quality, food safety, and disease spread. By understanding, harnessing, and potentially manipulating these relationships, Dr. Liao hopes to develop ecological-informed tools and strategies to mitigate and adapt to these challenges and ultimately improve ecological resilience, agricultural sustainability, and public health. Prior to joining Virginia Tech, Dr. Liao trained as a Postdoctoral Researcher at Columbia University Irving Medical Center. She received her Ph.D. in microbiology from Cornell University in 2020. Dr. Liao holds a bachelor\u2019s degree in ecology and a master\u2019s degree in environmental science.",
-                                            "department": "Department of Civil & Environmental Engineering",
-                                            "position": "Assistant Professor",
-                                            "affiliations": [
-                                                "grid.438526.e"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Asst. Prof.",
+                                        "name": "Jingqiu Liao",
+                                        "homepage_url": "https://www.webapps.cee.vt.edu/index.php?category=people&pagetype=bio&do=getprofile&user=jingqiuliao.html",
+                                        "biography": "Dr. Jingqiu Liao is a faculty member in the Department of Civil and Environmental Engineering. She is leading a research group, Liao Environmental and Public Health Microbiology Lab (LEAPH), studying the ecology and evolution of microbiomes, foodborne pathogens, and antimicrobial resistance in the settings of natural, agricultural, and food ecosystems. Dr. Liao\u2019s research aims to advance a mechanistic and predictive understanding of microbial diversity, composition, functioning, and environment-microbe interactions in these ecosystems by leveraging the power of multi-omics, computational biology, population genetics, machine learning, and data science. The intricate relationships between microbes and the environment hold significant potential solutions to many of the challenges posed by global changes, such as soil health, water quality, food safety, and disease spread. By understanding, harnessing, and potentially manipulating these relationships, Dr. Liao hopes to develop ecological-informed tools and strategies to mitigate and adapt to these challenges and ultimately improve ecological resilience, agricultural sustainability, and public health. Prior to joining Virginia Tech, Dr. Liao trained as a Postdoctoral Researcher at Columbia University Irving Medical Center. She received her Ph.D. in microbiology from Cornell University in 2020. Dr. Liao holds a bachelor\u2019s degree in ecology and a master\u2019s degree in environmental science.",
+                                        "department": "Department of Civil & Environmental Engineering",
+                                        "position": "Assistant Professor",
+                                        "affiliations": [
+                                            "grid.438526.e"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/kJBTPhx.png"
                                     }
@@ -609,19 +577,17 @@
                             "speakers": [
                                 {
                                     "email": "mag.ksiezarek@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Ms.",
-                                            "name": "Magdalena Ksiezarek",
-                                            "homepage_url": "https://www.linkedin.com/in/magdalena-ksiezarek-15973a1b2/?originalSubdomain=pt",
-                                            "biography": "A young career scientist with pharmaceutical background, currently doing her Doctorate degree in Microbiology, Faculty of Pharmacy, University of Porto, Portugal. Research interests are focused toward urogenital tract microbiome and its role in health and disease, with a focus on molecular characterization of strains relevant for urinary/urogenital tract health.",
-                                            "department": "Department of Microbiology",
-                                            "position": "PhD Student",
-                                            "affiliations": [
-                                                "grid.5808.5"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Ms.",
+                                        "name": "Magdalena Ksiezarek",
+                                        "homepage_url": "https://www.linkedin.com/in/magdalena-ksiezarek-15973a1b2/?originalSubdomain=pt",
+                                        "biography": "A young career scientist with pharmaceutical background, currently doing her Doctorate degree in Microbiology, Faculty of Pharmacy, University of Porto, Portugal. Research interests are focused toward urogenital tract microbiome and its role in health and disease, with a focus on molecular characterization of strains relevant for urinary/urogenital tract health.",
+                                        "department": "Department of Microbiology",
+                                        "position": "PhD Student",
+                                        "affiliations": [
+                                            "grid.5808.5"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/aTm3WDP.jpeg"
                                     }
@@ -643,19 +609,17 @@
                             "speakers": [
                                 {
                                     "email": "dawnmsg@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Zhi Luo Deng",
-                                            "homepage_url": "https://dawnmy.github.io/CV/",
-                                            "biography": "",
-                                            "department": "Department of Computational Biology",
-                                            "position": "Postdoctoral Researcher",
-                                            "affiliations": [
-                                                "grid.7490.a"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Zhi Luo Deng",
+                                        "homepage_url": "https://dawnmy.github.io/CV/",
+                                        "biography": "",
+                                        "department": "Department of Computational Biology",
+                                        "position": "Postdoctoral Researcher",
+                                        "affiliations": [
+                                            "grid.7490.a"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/zfBaa06.png"
                                     }
@@ -677,19 +641,17 @@
                             "speakers": [
                                 {
                                     "email": "edoardo.pasolli@unina.it",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Edoardo Pasolli",
-                                            "homepage_url": "https://sites.google.com/site/edoardopasolli/",
-                                            "biography": "I am associate professor at University of Naples Federico II, Department of Agricultural Sciences, Italy. I currently teach the courses \"Data science\" and \"Data science & Computational analysis for metagenomics\". In brief, my research interests aim at developing and applying machine learning methodologies and computational tools for complex ecosystems with main focus on the human and food microbiomes. I have also worked on signal and image processing methods. Previously, I  was Marie Sklodowska-Curie individual fellow at University of Trento, Centre for Integrative Biology, Italy (2016-2018). I was also postdoctoral fellow at University of Trento, Centre for Integrative Biology, Italy (2014-2016);  Purdue University, School of Civil Engineering, United States (2013-2014); NASA Goddard Space Flight Center, Computational and Information Sciences and Technology Office, United States (2012-2013); University of Trento, Department of Information Engineering and Computer Science, Italy (2011-2012). I received the Ph.D. in Information and Communication Technology (November 2011), Master's degree in Telecommunications Engineering (March 2008, Grade: 110/110 cum laude) and Bachelor's degree in Telecommunications Engineering (January 2006, Grade: 110/110 cum laude) at University of Trento, Italy.",
-                                            "department": "Department of Agricultural Sciences",
-                                            "position": "Associate professor",
-                                            "affiliations": [
-                                                "grid.4691.a"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Edoardo Pasolli",
+                                        "homepage_url": "https://sites.google.com/site/edoardopasolli/",
+                                        "biography": "I am associate professor at University of Naples Federico II, Department of Agricultural Sciences, Italy. I currently teach the courses \"Data science\" and \"Data science & Computational analysis for metagenomics\". In brief, my research interests aim at developing and applying machine learning methodologies and computational tools for complex ecosystems with main focus on the human and food microbiomes. I have also worked on signal and image processing methods. Previously, I  was Marie Sklodowska-Curie individual fellow at University of Trento, Centre for Integrative Biology, Italy (2016-2018). I was also postdoctoral fellow at University of Trento, Centre for Integrative Biology, Italy (2014-2016);  Purdue University, School of Civil Engineering, United States (2013-2014); NASA Goddard Space Flight Center, Computational and Information Sciences and Technology Office, United States (2012-2013); University of Trento, Department of Information Engineering and Computer Science, Italy (2011-2012). I received the Ph.D. in Information and Communication Technology (November 2011), Master's degree in Telecommunications Engineering (March 2008, Grade: 110/110 cum laude) and Bachelor's degree in Telecommunications Engineering (January 2006, Grade: 110/110 cum laude) at University of Trento, Italy.",
+                                        "department": "Department of Agricultural Sciences",
+                                        "position": "Associate professor",
+                                        "affiliations": [
+                                            "grid.4691.a"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/PUFnDp9.png"
                                     }
@@ -711,19 +673,17 @@
                             "speakers": [
                                 {
                                     "email": "bushman@pennmedicine.upenn.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Frederic Bushman ",
-                                            "homepage_url": "https://www.med.upenn.edu/apps/faculty/index.php/g20001500/p2236488",
-                                            "biography": "Frederic Bushman is a Professor of Microbiology at the Perelman School of Medicine at the University of Pennsylvania. Dr. Bushman received his bachelor\u2019s degree in Biology and English from Amherst College.  He received his PhD in cellular and developmental biology from Harvard University. His research focuses on host/microbe interactions, with specific projects focusing on the human microbiome, HIV pathogenesis, and human genome therapy.  Many recent projects in the laboratory involve developing new methods for studying microbiology using deep sequencing and bioinformatics. Dr. Bushman has published over 200 papers and two books.",
-                                            "department": "Department of Microbiology",
-                                            "position": "Professor ",
-                                            "affiliations": [
-                                                "grid.25879.31"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Frederic Bushman ",
+                                        "homepage_url": "https://www.med.upenn.edu/apps/faculty/index.php/g20001500/p2236488",
+                                        "biography": "Frederic Bushman is a Professor of Microbiology at the Perelman School of Medicine at the University of Pennsylvania. Dr. Bushman received his bachelor\u2019s degree in Biology and English from Amherst College.  He received his PhD in cellular and developmental biology from Harvard University. His research focuses on host/microbe interactions, with specific projects focusing on the human microbiome, HIV pathogenesis, and human genome therapy.  Many recent projects in the laboratory involve developing new methods for studying microbiology using deep sequencing and bioinformatics. Dr. Bushman has published over 200 papers and two books.",
+                                        "department": "Department of Microbiology",
+                                        "position": "Professor ",
+                                        "affiliations": [
+                                            "grid.25879.31"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/wG7M7b0"
                                     }
@@ -745,19 +705,17 @@
                             "speakers": [
                                 {
                                     "email": "leawang@hsph.harvard.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Ya Lea Wang",
-                                            "homepage_url": "https://www.hsph.harvard.edu/profile/lea-y-wang/",
-                                            "biography": "",
-                                            "department": "Department of Biostatistics",
-                                            "position": "Research Scientist",
-                                            "affiliations": [
-                                                "grid.38142.3c"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Ya Lea Wang",
+                                        "homepage_url": "https://www.hsph.harvard.edu/profile/lea-y-wang/",
+                                        "biography": "",
+                                        "department": "Department of Biostatistics",
+                                        "position": "Research Scientist",
+                                        "affiliations": [
+                                            "grid.38142.3c"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/cX0OiWR.jpeg"
                                     }
@@ -779,19 +737,17 @@
                             "speakers": [
                                 {
                                     "email": "Moranya@mail.huji.ac.il",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Moran Yassour",
-                                            "homepage_url": "https://www.linkedin.com/in/moran-yassour-8731235/",
-                                            "biography": "Dr. Moran Yassour is an assistant professor at the Hebrew University, Faculty of Medicine, with joint affiliation at the school of Computer Science and Engineering. The Yassour lab studies the development of the infant microbiome in health and disease by developing new cohorts to study the establishment of the newborn gut microbiome and to characterize mother-to-child bacterial transmission. During the COVID-19 pandemic, the Yassour lab also joined forces with Hadassah Medical Center to analyze hundreds of thousands of SARS-CoV-2 tests, showing how pooling approaches can increase diagnostic labs\u2019 efficiency. Dr. Yassour did her postdoctoral training at the Broad Institute of MIT and Harvard University with Ramnik Xavier and Eric Lander, where she studied the human gut microbiome. During her PhD in the Friedman (HebrewU) and Regev (MIT/Broad) labs, she developed tools to reconstruct the transcriptome of partially assembled genomes and aberrant cancer genomes (including Trinity, a commonly used de-novo RNA sequencing asssembly tool). Dr. Yassour received her B.Sc., M.Sc., and Ph.D. in the Computer Science and Computational Biology program at the Hebrew University of Jerusalem.",
-                                            "department": "Department of Computer Science and Computational Biology",
-                                            "position": "Assistant Professor",
-                                            "affiliations": [
-                                                "grid.9619.7"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Moran Yassour",
+                                        "homepage_url": "https://www.linkedin.com/in/moran-yassour-8731235/",
+                                        "biography": "Dr. Moran Yassour is an assistant professor at the Hebrew University, Faculty of Medicine, with joint affiliation at the school of Computer Science and Engineering. The Yassour lab studies the development of the infant microbiome in health and disease by developing new cohorts to study the establishment of the newborn gut microbiome and to characterize mother-to-child bacterial transmission. During the COVID-19 pandemic, the Yassour lab also joined forces with Hadassah Medical Center to analyze hundreds of thousands of SARS-CoV-2 tests, showing how pooling approaches can increase diagnostic labs\u2019 efficiency. Dr. Yassour did her postdoctoral training at the Broad Institute of MIT and Harvard University with Ramnik Xavier and Eric Lander, where she studied the human gut microbiome. During her PhD in the Friedman (HebrewU) and Regev (MIT/Broad) labs, she developed tools to reconstruct the transcriptome of partially assembled genomes and aberrant cancer genomes (including Trinity, a commonly used de-novo RNA sequencing asssembly tool). Dr. Yassour received her B.Sc., M.Sc., and Ph.D. in the Computer Science and Computational Biology program at the Hebrew University of Jerusalem.",
+                                        "department": "Department of Computer Science and Computational Biology",
+                                        "position": "Assistant Professor",
+                                        "affiliations": [
+                                            "grid.9619.7"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/skmPYTj.jpeg"
                                     }
@@ -804,7 +760,7 @@
             "name": "MVIF.3",
             "owner_id": 1,
             "type": "symposium",
-            "organisers": [
+            "series_organisers": [
                 {
                     "user_id": 1,
                     "credited_organiser": false
@@ -838,19 +794,17 @@
                             "speakers": [
                                 {
                                     "email": "dmaghini@stanford.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Dylan Maghini",
-                                            "homepage_url": "https://med.stanford.edu/profiles/dylan-maghini",
-                                            "biography": "I am a postdoctoral Fogarty Global Health Equity Scholar, jointly appointed at Stanford University (USA) and the University of the Witwatersrand (South Africa). As a global health researcher, I collaborate internationally to study the relationship between the gut microbiome, genomics, the environment, and human health in four African countries. During my Fogarty GHES fellowship, I am based in Johannesburg, South Africa, where I work with local stakeholders to address health and disease challenges. I am passionate about applying cutting-edge genomic technologies to advance global health equity.",
-                                            "department": "Department of Hematology",
-                                            "position": "Postdoctoral Scholar",
-                                            "affiliations": [
-                                                "grid.168010.e"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Dylan Maghini",
+                                        "homepage_url": "https://med.stanford.edu/profiles/dylan-maghini",
+                                        "biography": "I am a postdoctoral Fogarty Global Health Equity Scholar, jointly appointed at Stanford University (USA) and the University of the Witwatersrand (South Africa). As a global health researcher, I collaborate internationally to study the relationship between the gut microbiome, genomics, the environment, and human health in four African countries. During my Fogarty GHES fellowship, I am based in Johannesburg, South Africa, where I work with local stakeholders to address health and disease challenges. I am passionate about applying cutting-edge genomic technologies to advance global health equity.",
+                                        "department": "Department of Hematology",
+                                        "position": "Postdoctoral Scholar",
+                                        "affiliations": [
+                                            "grid.168010.e"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/pSsV1md.jpeg"
                                     }
@@ -872,19 +826,17 @@
                             "speakers": [
                                 {
                                     "email": "jaeisen@ucdavis.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Jonathan Eisen ",
-                                            "homepage_url": "https://biology.ucdavis.edu/people/jonathan-eisen",
-                                            "biography": "Eisen completed his undergraduate studies at Harvard College in 1990, earning an AB degree in biology. He graduated as a Doctor of Philosophy from Stanford University in 1998 with a thesis on the evolution of DNA repair genes, proteins, and processes in 1998, supervised by Philip Hanawalt. Eisen's research focuses on the origin of novelty, how new processes and functions originate in living things. To study this, he focuses on sequencing and analyzing genomes of organisms, especially microbes and using phylogenomic analysis. Eisen was awarded the Benjamin Franklin Award (Bioinformatics) in 2011 and the Esquire Magazine's Best and Brightest in 2002. He was awarded the Walter J. Gores Award, Faculty Achievement Awards for Excellence in Teaching.He was elected a Fellow of the American Society for Microbiology (FAAM). He was awarded the UC Davis ADVANCE Scholar Award in 2019, for his work to improve gender equity in STEM through teaching, research, and service.",
-                                            "department": "Department of Evolution and Ecology",
-                                            "position": "Professor",
-                                            "affiliations": [
-                                                "grid.27860.3b"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Jonathan Eisen ",
+                                        "homepage_url": "https://biology.ucdavis.edu/people/jonathan-eisen",
+                                        "biography": "Eisen completed his undergraduate studies at Harvard College in 1990, earning an AB degree in biology. He graduated as a Doctor of Philosophy from Stanford University in 1998 with a thesis on the evolution of DNA repair genes, proteins, and processes in 1998, supervised by Philip Hanawalt. Eisen's research focuses on the origin of novelty, how new processes and functions originate in living things. To study this, he focuses on sequencing and analyzing genomes of organisms, especially microbes and using phylogenomic analysis. Eisen was awarded the Benjamin Franklin Award (Bioinformatics) in 2011 and the Esquire Magazine's Best and Brightest in 2002. He was awarded the Walter J. Gores Award, Faculty Achievement Awards for Excellence in Teaching.He was elected a Fellow of the American Society for Microbiology (FAAM). He was awarded the UC Davis ADVANCE Scholar Award in 2019, for his work to improve gender equity in STEM through teaching, research, and service.",
+                                        "department": "Department of Evolution and Ecology",
+                                        "position": "Professor",
+                                        "affiliations": [
+                                            "grid.27860.3b"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/wkk7rd4"
                                     }
@@ -906,19 +858,17 @@
                             "speakers": [
                                 {
                                     "email": "anniz44@mit.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Anni Zhang",
-                                            "homepage_url": "https://web.mit.edu/almlab/anni_zhang.html",
-                                            "biography": "Over the last 4 years, I build a framework to mine new knowledge and potential applications by bioinformatics and big data analysis. This framework insights the linkages between data to knowledge and applications in the field of environment microbiology. I'm developing the next stage of my career and applying my whole package to this brand new field of human microbiome. I'm building an integrated analysis method to combine genomes, meta-omics, isolates, and model animals to mining new knowledge and applications. I'm also a new member in the Global Microbiome Conservancy. My current research focuses on: The evolution of functional genes and microbial groups , Traits that shape, maintain and disturb our gut microbes, Diseases-related gut microbes and functions",
-                                            "department": "Department of Biological Engineering",
-                                            "position": "Postdoc Research Fellow",
-                                            "affiliations": [
-                                                "grid.116068.8"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Anni Zhang",
+                                        "homepage_url": "https://web.mit.edu/almlab/anni_zhang.html",
+                                        "biography": "Over the last 4 years, I build a framework to mine new knowledge and potential applications by bioinformatics and big data analysis. This framework insights the linkages between data to knowledge and applications in the field of environment microbiology. I'm developing the next stage of my career and applying my whole package to this brand new field of human microbiome. I'm building an integrated analysis method to combine genomes, meta-omics, isolates, and model animals to mining new knowledge and applications. I'm also a new member in the Global Microbiome Conservancy. My current research focuses on: The evolution of functional genes and microbial groups , Traits that shape, maintain and disturb our gut microbes, Diseases-related gut microbes and functions",
+                                        "department": "Department of Biological Engineering",
+                                        "position": "Postdoc Research Fellow",
+                                        "affiliations": [
+                                            "grid.116068.8"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/ZyiKO8h.jpeg"
                                     }
@@ -940,19 +890,17 @@
                             "speakers": [
                                 {
                                     "email": "vaibhav.upadhyay@ucsf.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Vaibhav Upadhyay",
-                                            "homepage_url": "https://profiles.ucsf.edu/vaibhav.upadhyay",
-                                            "biography": "Dr. Vaibhav Upadhyay is currently a Postdoctoral Fellow at University of Colorado, Anschutz Medical Campus, in Dr. Krishna Mallela\u2019s laboratory, where he has been since 2017. His work focuses on understanding the structure-function relationship of disease relevant proteins. He has been working on understanding the effects of mutations in the receptor binding domain of SARS-CoV-2 spike protein after the breakout of the recent pandemic, before which he was working on understanding the structure-function relationship of dystrophin protein, implicated in muscular dystrophy disease. Specifically, he has been understanding the role of dystrophin isoforms with N and C-terminal domain modifications in protein function and interactions. Prior to his Postdoctoral experience in USA, he had a brief postdoctoral experience at Institute of Genomics and Integrative Biology (IGIB) at New Delhi, India, with Dr. Kausik Chakraborty. Here he studied the mechanism of action of HSP60/10 chaperonin family proteins. Dr. Upadhyay is a trained Biophysicist who received his PhD in 2016 from National Institute of Immunology, New Delhi, India, working with Dr. Amulya Kumar Panda. His thesis project involved understanding the effects of organic solvents on amyloid aggregation and solubilization and refolding of inclusion body proteins. His work related to doctoral thesis has been awarded an Indian patent. Dr. Upadhyay has authored 10 papers published in peer reviewed journals and 3 of his papers appear on the bioRxiv pre-print server. He also serves as a reviewer for Plos One and Scientific Reports journal. His SARS-CoV-2 related research has been featured in the Discover Magazine, a popular science magazine. ",
-                                            "department": "School of Medicine",
-                                            "position": "Assistant Professor",
-                                            "affiliations": [
-                                                "grid.266102.1"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Vaibhav Upadhyay",
+                                        "homepage_url": "https://profiles.ucsf.edu/vaibhav.upadhyay",
+                                        "biography": "Dr. Vaibhav Upadhyay is currently a Postdoctoral Fellow at University of Colorado, Anschutz Medical Campus, in Dr. Krishna Mallela\u2019s laboratory, where he has been since 2017. His work focuses on understanding the structure-function relationship of disease relevant proteins. He has been working on understanding the effects of mutations in the receptor binding domain of SARS-CoV-2 spike protein after the breakout of the recent pandemic, before which he was working on understanding the structure-function relationship of dystrophin protein, implicated in muscular dystrophy disease. Specifically, he has been understanding the role of dystrophin isoforms with N and C-terminal domain modifications in protein function and interactions. Prior to his Postdoctoral experience in USA, he had a brief postdoctoral experience at Institute of Genomics and Integrative Biology (IGIB) at New Delhi, India, with Dr. Kausik Chakraborty. Here he studied the mechanism of action of HSP60/10 chaperonin family proteins. Dr. Upadhyay is a trained Biophysicist who received his PhD in 2016 from National Institute of Immunology, New Delhi, India, working with Dr. Amulya Kumar Panda. His thesis project involved understanding the effects of organic solvents on amyloid aggregation and solubilization and refolding of inclusion body proteins. His work related to doctoral thesis has been awarded an Indian patent. Dr. Upadhyay has authored 10 papers published in peer reviewed journals and 3 of his papers appear on the bioRxiv pre-print server. He also serves as a reviewer for Plos One and Scientific Reports journal. His SARS-CoV-2 related research has been featured in the Discover Magazine, a popular science magazine. ",
+                                        "department": "School of Medicine",
+                                        "position": "Assistant Professor",
+                                        "affiliations": [
+                                            "grid.266102.1"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/AGMoX3e.jpeg"
                                     }
@@ -974,19 +922,17 @@
                             "speakers": [
                                 {
                                     "email": "Shaimaa.Elsafoury76@sphmail.cuny.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Ms.",
-                                            "name": "Shaimaa Elsafoury",
-                                            "homepage_url": "https://www.linkedin.com/in/shaimaa-elsafoury/?originalSubdomain=eg",
-                                            "biography": "As a consultant at the World Health Organization Regional Office for the Eastern Mediterranean (WHO EMRO), I apply my epidemiological and biostatistical skills to monitor and evaluate the burden and trends of non-communicable diseases (NCDs) in the region. I work with a multidisciplinary team of experts to collect, analyze, and disseminate data on NCDs, and to provide technical support and guidance to the member states on developing and implementing effective surveillance systems and policies. I have over six years of experience in data analysis, surveillance, research, and academic writing in the field of public health, with a focus on infectious diseases such as hepatitis, AIDS, and STIs. I have conducted field visits, surveys, systematic reviews, and reports for various projects and initiatives at the WHO EMRO and other organizations. I am passionate about using data and evidence to inform and improve health outcomes and equity in the region and beyond. I hold a master's degree in epidemiology and biostatistics from CUNY Graduate School of Public Health and Health Policy, and I am a Fulbright alumna.",
-                                            "department": "Non-communicable diseases surveillance",
-                                            "position": "Consultant ",
-                                            "affiliations": [
-                                                "grid.483405.e"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Ms.",
+                                        "name": "Shaimaa Elsafoury",
+                                        "homepage_url": "https://www.linkedin.com/in/shaimaa-elsafoury/?originalSubdomain=eg",
+                                        "biography": "As a consultant at the World Health Organization Regional Office for the Eastern Mediterranean (WHO EMRO), I apply my epidemiological and biostatistical skills to monitor and evaluate the burden and trends of non-communicable diseases (NCDs) in the region. I work with a multidisciplinary team of experts to collect, analyze, and disseminate data on NCDs, and to provide technical support and guidance to the member states on developing and implementing effective surveillance systems and policies. I have over six years of experience in data analysis, surveillance, research, and academic writing in the field of public health, with a focus on infectious diseases such as hepatitis, AIDS, and STIs. I have conducted field visits, surveys, systematic reviews, and reports for various projects and initiatives at the WHO EMRO and other organizations. I am passionate about using data and evidence to inform and improve health outcomes and equity in the region and beyond. I hold a master's degree in epidemiology and biostatistics from CUNY Graduate School of Public Health and Health Policy, and I am a Fulbright alumna.",
+                                        "department": "Non-communicable diseases surveillance",
+                                        "position": "Consultant ",
+                                        "affiliations": [
+                                            "grid.483405.e"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/rypiS5n.jpeg"
                                     }
@@ -1008,19 +954,17 @@
                             "speakers": [
                                 {
                                     "email": "yuhanweng2022@u.northwestern.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Ms.",
-                                            "name": "Sherlyn Weng",
-                                            "homepage_url": "https://www.linkedin.com/in/sherlyn-weng/",
-                                            "biography": "I am a senior double majoring in Environmental Engineering and Integrated Science Program. On the side, I took a minor in computer science. My research in the Hartmann Group focuses on the indoor microbiome and its potential impact on public health. I am always driven by the possibilities of applying our understanding of the microbiome to improve human health and I believe that the fruits of microbiome research should benefit all groups equitably.",
-                                            "department": "Department of Environmental Engineering and Integrated Science",
-                                            "position": "PhD student",
-                                            "affiliations": [
-                                                "grid.266100.3"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Ms.",
+                                        "name": "Sherlyn Weng",
+                                        "homepage_url": "https://www.linkedin.com/in/sherlyn-weng/",
+                                        "biography": "I am a senior double majoring in Environmental Engineering and Integrated Science Program. On the side, I took a minor in computer science. My research in the Hartmann Group focuses on the indoor microbiome and its potential impact on public health. I am always driven by the possibilities of applying our understanding of the microbiome to improve human health and I believe that the fruits of microbiome research should benefit all groups equitably.",
+                                        "department": "Department of Environmental Engineering and Integrated Science",
+                                        "position": "PhD student",
+                                        "affiliations": [
+                                            "grid.266100.3"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/gT6GtPc.jpeg"
                                     }
@@ -1042,19 +986,17 @@
                             "speakers": [
                                 {
                                     "email": "tommivat@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Assoc. Prof.",
-                                            "name": "Tommi Vatanen",
-                                            "homepage_url": "https://www.helsinki.fi/en/about-us/people/people-finder/tommi-vatanen-9117604",
-                                            "biography": "Data scientist working with infant gut microbiome datasets. Experience in project management, science communication, data analysis, machine learning, bayesian modeling, Python/R/Matlab/Java",
-                                            "department": "Helsinki Institute of Life Science HiLIFE",
-                                            "position": "Associate Professor",
-                                            "affiliations": [
-                                                "grid.7737.4"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Assoc. Prof.",
+                                        "name": "Tommi Vatanen",
+                                        "homepage_url": "https://www.helsinki.fi/en/about-us/people/people-finder/tommi-vatanen-9117604",
+                                        "biography": "Data scientist working with infant gut microbiome datasets. Experience in project management, science communication, data analysis, machine learning, bayesian modeling, Python/R/Matlab/Java",
+                                        "department": "Helsinki Institute of Life Science HiLIFE",
+                                        "position": "Associate Professor",
+                                        "affiliations": [
+                                            "grid.7737.4"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/OT1kBTg.jpeg"
                                     }
@@ -1076,19 +1018,17 @@
                             "speakers": [
                                 {
                                     "email": "jaeisen@ucdavis.edu",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Jonathan Eisen ",
-                                            "homepage_url": "https://biology.ucdavis.edu/people/jonathan-eisen",
-                                            "biography": "Eisen completed his undergraduate studies at Harvard College in 1990, earning an AB degree in biology. He graduated as a Doctor of Philosophy from Stanford University in 1998 with a thesis on the evolution of DNA repair genes, proteins, and processes in 1998, supervised by Philip Hanawalt. Eisen's research focuses on the origin of novelty, how new processes and functions originate in living things. To study this, he focuses on sequencing and analyzing genomes of organisms, especially microbes and using phylogenomic analysis. Eisen was awarded the Benjamin Franklin Award (Bioinformatics) in 2011 and the Esquire Magazine's Best and Brightest in 2002. He was awarded the Walter J. Gores Award, Faculty Achievement Awards for Excellence in Teaching.He was elected a Fellow of the American Society for Microbiology (FAAM). He was awarded the UC Davis ADVANCE Scholar Award in 2019, for his work to improve gender equity in STEM through teaching, research, and service.",
-                                            "department": "Department of Evolution and Ecology",
-                                            "position": "Professor",
-                                            "affiliations": [
-                                                "grid.27860.3b"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Jonathan Eisen ",
+                                        "homepage_url": "https://biology.ucdavis.edu/people/jonathan-eisen",
+                                        "biography": "Eisen completed his undergraduate studies at Harvard College in 1990, earning an AB degree in biology. He graduated as a Doctor of Philosophy from Stanford University in 1998 with a thesis on the evolution of DNA repair genes, proteins, and processes in 1998, supervised by Philip Hanawalt. Eisen's research focuses on the origin of novelty, how new processes and functions originate in living things. To study this, he focuses on sequencing and analyzing genomes of organisms, especially microbes and using phylogenomic analysis. Eisen was awarded the Benjamin Franklin Award (Bioinformatics) in 2011 and the Esquire Magazine's Best and Brightest in 2002. He was awarded the Walter J. Gores Award, Faculty Achievement Awards for Excellence in Teaching.He was elected a Fellow of the American Society for Microbiology (FAAM). He was awarded the UC Davis ADVANCE Scholar Award in 2019, for his work to improve gender equity in STEM through teaching, research, and service.",
+                                        "department": "Department of Evolution and Ecology",
+                                        "position": "Professor",
+                                        "affiliations": [
+                                            "grid.27860.3b"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/wkk7rd4"
                                     }
@@ -1101,7 +1041,7 @@
             "name": "MVIF.4",
             "owner_id": 1,
             "type": "symposium",
-            "organisers": [
+            "series_organisers": [
                 {
                     "user_id": 1,
                     "credited_organiser": false
@@ -1135,19 +1075,17 @@
                             "speakers": [
                                 {
                                     "email": "sarah.ahannach@uantwerpen.be",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Sarah Ahannach",
-                                            "homepage_url": "https://www.uantwerpen.be/en/staff/sarah-ahannach_18980/",
-                                            "biography": "Sarah obtained her masters in Forensic Biomedical Sciences (KU Leuven) and is currently a postdoctoral researcher at the Lab of Applied Microbiology and Biotechnology of prof. Sarah Lebeer, where she obtained her PhD. She mainly works on the female microbiome and its potential in healthcare and forensics. This proceeds in her eagerness for science communication on women\u2019s health and safety. Sarah also passionately participates in talks and activities on topics she considers important for a gender equal and inclusive society. Sarah is currently managing the Isala and GeneDoe project (isala.be).",
-                                            "department": "Department of Bioscience Engineering",
-                                            "position": "Senior researcher",
-                                            "affiliations": [
-                                                "grid.5284.b"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Sarah Ahannach",
+                                        "homepage_url": "https://www.uantwerpen.be/en/staff/sarah-ahannach_18980/",
+                                        "biography": "Sarah obtained her masters in Forensic Biomedical Sciences (KU Leuven) and is currently a postdoctoral researcher at the Lab of Applied Microbiology and Biotechnology of prof. Sarah Lebeer, where she obtained her PhD. She mainly works on the female microbiome and its potential in healthcare and forensics. This proceeds in her eagerness for science communication on women\u2019s health and safety. Sarah also passionately participates in talks and activities on topics she considers important for a gender equal and inclusive society. Sarah is currently managing the Isala and GeneDoe project (isala.be).",
+                                        "department": "Department of Bioscience Engineering",
+                                        "position": "Senior researcher",
+                                        "affiliations": [
+                                            "grid.5284.b"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/kr05Y5V.jpeg"
                                     }
@@ -1169,19 +1107,17 @@
                             "speakers": [
                                 {
                                     "email": "Eran.Elinav@weizmann.ac.il",
-                                    "record_meta": [
-                                        {
-                                            "title": "Prof.",
-                                            "name": "Eran Elinav",
-                                            "homepage_url": "https://www.weizmann.ac.il/immunology/elinav/group",
-                                            "biography": "Prof. Eran Elinav, M.D., Ph.D. is a professor heading the Department of Systems Immunology, Weizmann Institute of Science, Israel, and the director of the Microbiome & Cancer division, National German Cancer Center (Deutsches Krebsforschungszentrum, DKFZ), Heidelberg, Germany. His labs at the Weizmann Institute and DKFZ focus on deciphering the molecular basis of host-microbiome interactions and their effects on health and disease, with a goal of personalizing medicine and nutrition. Dr. Elinav completed his medical doctor\u2019s (MD) degree at the Hebrew University of Jerusalem Hadassah Medical Center summa cum laude, followed by a clinical internship, residency in internal medicine, and a physician-scientist position at the Tel Aviv Medical Center Gastroenterology institute. He received a PhD in immunology from the Weizmann Institute of Science, followed by a postdoctoral fellowship at Yale University School of Medicine. Dr. Elinav has published more than 250 publications in leading peer-reviewed journals, including major recent discoveries related to the effects of host genetics, innate immune function and environmental factors, such as dietary composition and timing, on the intestinal microbiome and its propensity to drive multi-factorial disease. His honors include multiple awards for academic excellence including the Claire and Emmanuel G. Rosenblatt award from the American Physicians for Medicine, the Alon Foundation award, the Rappaport prize for biomedical research, the Levinson award for basic science research, the Landau prize. He is an honorary guest professor, University of Science & Technology of China; a senior fellow at the Canadian Institute For Advanced Research (CIFAR); an elected member, European Molecular Biology Organization (EMBO); an elected fellow, American Academy of Microbiology; and an international scholar at the Howard Hughes Medical Institute (HHMI) and the Bill & Melinda Gates Foundation.",
-                                            "department": "Department of Systems Immunology",
-                                            "position": "Head of Department",
-                                            "affiliations": [
-                                                "grid.13992.30"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Prof.",
+                                        "name": "Eran Elinav",
+                                        "homepage_url": "https://www.weizmann.ac.il/immunology/elinav/group",
+                                        "biography": "Prof. Eran Elinav, M.D., Ph.D. is a professor heading the Department of Systems Immunology, Weizmann Institute of Science, Israel, and the director of the Microbiome & Cancer division, National German Cancer Center (Deutsches Krebsforschungszentrum, DKFZ), Heidelberg, Germany. His labs at the Weizmann Institute and DKFZ focus on deciphering the molecular basis of host-microbiome interactions and their effects on health and disease, with a goal of personalizing medicine and nutrition. Dr. Elinav completed his medical doctor\u2019s (MD) degree at the Hebrew University of Jerusalem Hadassah Medical Center summa cum laude, followed by a clinical internship, residency in internal medicine, and a physician-scientist position at the Tel Aviv Medical Center Gastroenterology institute. He received a PhD in immunology from the Weizmann Institute of Science, followed by a postdoctoral fellowship at Yale University School of Medicine. Dr. Elinav has published more than 250 publications in leading peer-reviewed journals, including major recent discoveries related to the effects of host genetics, innate immune function and environmental factors, such as dietary composition and timing, on the intestinal microbiome and its propensity to drive multi-factorial disease. His honors include multiple awards for academic excellence including the Claire and Emmanuel G. Rosenblatt award from the American Physicians for Medicine, the Alon Foundation award, the Rappaport prize for biomedical research, the Levinson award for basic science research, the Landau prize. He is an honorary guest professor, University of Science & Technology of China; a senior fellow at the Canadian Institute For Advanced Research (CIFAR); an elected member, European Molecular Biology Organization (EMBO); an elected fellow, American Academy of Microbiology; and an international scholar at the Howard Hughes Medical Institute (HHMI) and the Bill & Melinda Gates Foundation.",
+                                        "department": "Department of Systems Immunology",
+                                        "position": "Head of Department",
+                                        "affiliations": [
+                                            "grid.13992.30"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://imgur.com/SsDjgJh"
                                     }
@@ -1203,19 +1139,17 @@
                             "speakers": [
                                 {
                                     "email": "s.mcarthur@qmul.ac.uk",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Simon McArthur",
-                                            "homepage_url": "https://www.qmul.ac.uk/dentistry/people/profiles/simonmcarthur.html",
-                                            "biography": "I read Natural Sciences (Pharmacology) at the University of Cambridge, followed by a PhD in Neuropharmacology at Imperial College London in 2004. My thesis and postdoctoral work with Professor Glenda Gillies and Dr Egle Solito at Imperial College London examined the influence of peripheral stress and inflammation upon neuroinflammatory pathology in conditions including Parkinson\u2019s disease, multiple sclerosis and Alzheimer\u2019s disease. In 2011 I moved to Queen Mary, University of London and undertook postdoctoral research with Professors Rod Flower and Mauro Perretti at the William Harvey Research Institute, studying mechanisms of inflammatory resolution and the roles of monocytes/macrophages in the termination of acute inflammation. In 2014, I was appointed as a Lecturer in Physiology at the University of Westminster where I first developed my interest in the gut-brain axis, and the mechanism(s) linking the gut microbiota with the brain pathology in neurodegenerative disease, in collaboration with Dr Lesley Hoyles. In 2016 I took up my current position as a non-clinical Senior Lecturer in Neuroscience & Pharmacology at the Institute of Dentistry, QMUL, where I continues my research investigating the gut brain axis and its relevance to neurodegenerative disease",
-                                            "department": "Faculty of Medicine and Dentistry",
-                                            "position": "Senior Lecturer",
-                                            "affiliations": [
-                                                "grid.4868.2"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Simon McArthur",
+                                        "homepage_url": "https://www.qmul.ac.uk/dentistry/people/profiles/simonmcarthur.html",
+                                        "biography": "I read Natural Sciences (Pharmacology) at the University of Cambridge, followed by a PhD in Neuropharmacology at Imperial College London in 2004. My thesis and postdoctoral work with Professor Glenda Gillies and Dr Egle Solito at Imperial College London examined the influence of peripheral stress and inflammation upon neuroinflammatory pathology in conditions including Parkinson\u2019s disease, multiple sclerosis and Alzheimer\u2019s disease. In 2011 I moved to Queen Mary, University of London and undertook postdoctoral research with Professors Rod Flower and Mauro Perretti at the William Harvey Research Institute, studying mechanisms of inflammatory resolution and the roles of monocytes/macrophages in the termination of acute inflammation. In 2014, I was appointed as a Lecturer in Physiology at the University of Westminster where I first developed my interest in the gut-brain axis, and the mechanism(s) linking the gut microbiota with the brain pathology in neurodegenerative disease, in collaboration with Dr Lesley Hoyles. In 2016 I took up my current position as a non-clinical Senior Lecturer in Neuroscience & Pharmacology at the Institute of Dentistry, QMUL, where I continues my research investigating the gut brain axis and its relevance to neurodegenerative disease",
+                                        "department": "Faculty of Medicine and Dentistry",
+                                        "position": "Senior Lecturer",
+                                        "affiliations": [
+                                            "grid.4868.2"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/QHxoBIb.jpeg"
                                     }
@@ -1237,19 +1171,17 @@
                             "speakers": [
                                 {
                                     "email": "dr.ghensi@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Paolo Ghensi",
-                                            "homepage_url": "https://www.linkedin.com/in/paolo-ghensi-0bb85262/?originalSubdomain=it",
-                                            "biography": "Graduated in Dentistry at the University of Verona in 2009. 3-year Post-graduate School at University of Milan, and awarded a certificate as Specialist in Oral Surgery in 2012. In 2015 he achieved the 2-year Master Diploma in Oral Implantology at the University of Padova. Currently he is PhD Candidate in Biomolecular Sciences at the Centre of Integrative Biology (CIBIO) at University of Trento, Italy. Since 2015 Adjunct Professor at the Department of Neurosciences, Dentistry Clinic, University of Padova. He\u2019s author of more than 20 publications on national and international scientific journals in the fields of Oral Implantology, Oral Surgery and Periodontology. Membership in Professional and Scientific Organizations: Italian Society of Peridontology (SIdP) and Italian Society of Osseointegrated Implantology (SIO).",
-                                            "department": "Department of Biomolecular Sciences",
-                                            "position": "Researcher ",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Paolo Ghensi",
+                                        "homepage_url": "https://www.linkedin.com/in/paolo-ghensi-0bb85262/?originalSubdomain=it",
+                                        "biography": "Graduated in Dentistry at the University of Verona in 2009. 3-year Post-graduate School at University of Milan, and awarded a certificate as Specialist in Oral Surgery in 2012. In 2015 he achieved the 2-year Master Diploma in Oral Implantology at the University of Padova. Currently he is PhD Candidate in Biomolecular Sciences at the Centre of Integrative Biology (CIBIO) at University of Trento, Italy. Since 2015 Adjunct Professor at the Department of Neurosciences, Dentistry Clinic, University of Padova. He\u2019s author of more than 20 publications on national and international scientific journals in the fields of Oral Implantology, Oral Surgery and Periodontology. Membership in Professional and Scientific Organizations: Italian Society of Peridontology (SIdP) and Italian Society of Osseointegrated Implantology (SIO).",
+                                        "department": "Department of Biomolecular Sciences",
+                                        "position": "Researcher ",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/xv4SYKh.jpeg"
                                     }
@@ -1271,19 +1203,17 @@
                             "speakers": [
                                 {
                                     "email": "cmirzayi@gmail.com",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Chloe Mirzayi",
-                                            "homepage_url": "https://cunyisph.org/team/chloe-mirzayi/",
-                                            "biography": "Chloe is an Investigator the ISPH. She has experience designing, implementing, and maintaining data collection, management, and curation tools on a variety of projects ranging from large national cohort studies to RCTs in topics related to COVID-19, microbiome, HIV, drug and alcohol use, and sexual health. Her own research interests are focused on the role of the microbiome on human health, causal inference in microbiome research, and the effect of public opinion and social media on public health. Chloe recently received her PhD in Epidemiology at the CUNY School of Public Health & Health Policy. Her mentor and dissertation committee chair was ISPH Investigator Levi Waldron.",
-                                            "department": "Graduate School of Public Health and Health Policy",
-                                            "position": "ISPH Investigator",
-                                            "affiliations": [
-                                                "grid.212340.6"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Chloe Mirzayi",
+                                        "homepage_url": "https://cunyisph.org/team/chloe-mirzayi/",
+                                        "biography": "Chloe is an Investigator the ISPH. She has experience designing, implementing, and maintaining data collection, management, and curation tools on a variety of projects ranging from large national cohort studies to RCTs in topics related to COVID-19, microbiome, HIV, drug and alcohol use, and sexual health. Her own research interests are focused on the role of the microbiome on human health, causal inference in microbiome research, and the effect of public opinion and social media on public health. Chloe recently received her PhD in Epidemiology at the CUNY School of Public Health & Health Policy. Her mentor and dissertation committee chair was ISPH Investigator Levi Waldron.",
+                                        "department": "Graduate School of Public Health and Health Policy",
+                                        "position": "ISPH Investigator",
+                                        "affiliations": [
+                                            "grid.212340.6"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/NQcIQTg.png"
                                     }
@@ -1305,19 +1235,17 @@
                             "speakers": [
                                 {
                                     "email": "sim_choon_kiat@sics.a-star.edu.sg",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Choon Kiat Sim",
-                                            "homepage_url": "https://www.linkedin.com/in/cksim/?originalSubdomain=sg",
-                                            "biography": "Previously at the Singapore Institute for Clinical Sciences, I analyze microbiome data from birth cohort studies. Before that, at the National Human Genome Research Institute of USA, I studied the problems of the microbiome and hospital-acquired infections from the perspective of microbial populations in the gut, using techniques involving genomics, genetic cloning, high-throughput DNA sequencing, bioinformatics, culturing, and mouse models, techniques which I learned during my Genetics PhD studies at Stanford University. I also have experience in teaching college/K-12 students, writing, presentation, event organization, and entrepreneurship.",
-                                            "department": "",
-                                            "position": "Research Fellow",
-                                            "affiliations": [
-                                                "grid.452264.3"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Choon Kiat Sim",
+                                        "homepage_url": "https://www.linkedin.com/in/cksim/?originalSubdomain=sg",
+                                        "biography": "Previously at the Singapore Institute for Clinical Sciences, I analyze microbiome data from birth cohort studies. Before that, at the National Human Genome Research Institute of USA, I studied the problems of the microbiome and hospital-acquired infections from the perspective of microbial populations in the gut, using techniques involving genomics, genetic cloning, high-throughput DNA sequencing, bioinformatics, culturing, and mouse models, techniques which I learned during my Genetics PhD studies at Stanford University. I also have experience in teaching college/K-12 students, writing, presentation, event organization, and entrepreneurship.",
+                                        "department": "",
+                                        "position": "Research Fellow",
+                                        "affiliations": [
+                                            "grid.452264.3"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/uL9uKEJ.jpeg"
                                     }
@@ -1339,19 +1267,17 @@
                             "speakers": [
                                 {
                                     "email": "mireia.vallescolomer@unitn.it",
-                                    "record_meta": [
-                                        {
-                                            "title": "Dr.",
-                                            "name": "Mireia Vall\u00e8s Colomer",
-                                            "homepage_url": "https://mireiavallescolomer.github.io/",
-                                            "biography": "I am a tenure-track group leader at the MELIS department of the University Pompeu Fabra (Barcelona, Spain), leading the Microbiome Research Group. Our research focuses on the role of the human microbiome in mental health and the social transmission of the microbiome. My background in Biotechnology and Biomolecular Sciences (BSc Autonomous University of Barcelona, Spain and MSc Vrije Universiteit Brussel, Belgium). During my PhD (Raes Lab, VIB-KU Leuven, Belgium) I researched the microbiota-gut-brain axis, seeking to characterise the microbial production and degradation of neuroactive compounds in metagenomic data, and performing the first population-level study on the link between the gut microbiome and anxiety and depression (Valles-Colomer et al, Nat. Microbiology 2019). The study was included in \u201cNature milestones 2019\u201d as milestone paper in human microbiota research, and was awarded a recommendation from F1000Prime. Towards the end of my PhD another question became increasingly important to me: how do we acquire such health- and disease-associated bacteria? I joined Nicola Segata\u2019s Lab in CIBIO (University of Trento, Italy) as an EMBO postdoctoral fellow and investigated how human-associated microorganisms are transmitted among individuals and spread in populations, using strain-level profiling metagenomic approaches. I assess the person-to-person transmission of the human microbiome by large scale strain-level metagenomic profiling (Valles-Colomer et al, Nature 2023)",
-                                            "department": "Department of Cellular, Computational and Integrative Biology - CIBIO",
-                                            "position": "Postdoc Research Fellow",
-                                            "affiliations": [
-                                                "grid.11696.39"
-                                            ]
-                                        }
-                                    ],
+                                    "record_meta": {
+                                        "title": "Dr.",
+                                        "name": "Mireia Vall\u00e8s Colomer",
+                                        "homepage_url": "https://mireiavallescolomer.github.io/",
+                                        "biography": "I am a tenure-track group leader at the MELIS department of the University Pompeu Fabra (Barcelona, Spain), leading the Microbiome Research Group. Our research focuses on the role of the human microbiome in mental health and the social transmission of the microbiome. My background in Biotechnology and Biomolecular Sciences (BSc Autonomous University of Barcelona, Spain and MSc Vrije Universiteit Brussel, Belgium). During my PhD (Raes Lab, VIB-KU Leuven, Belgium) I researched the microbiota-gut-brain axis, seeking to characterise the microbial production and degradation of neuroactive compounds in metagenomic data, and performing the first population-level study on the link between the gut microbiome and anxiety and depression (Valles-Colomer et al, Nat. Microbiology 2019). The study was included in \u201cNature milestones 2019\u201d as milestone paper in human microbiota research, and was awarded a recommendation from F1000Prime. Towards the end of my PhD another question became increasingly important to me: how do we acquire such health- and disease-associated bacteria? I joined Nicola Segata\u2019s Lab in CIBIO (University of Trento, Italy) as an EMBO postdoctoral fellow and investigated how human-associated microorganisms are transmitted among individuals and spread in populations, using strain-level profiling metagenomic approaches. I assess the person-to-person transmission of the human microbiome by large scale strain-level metagenomic profiling (Valles-Colomer et al, Nature 2023)",
+                                        "department": "Department of Cellular, Computational and Integrative Biology - CIBIO",
+                                        "position": "Postdoc Research Fellow",
+                                        "affiliations": [
+                                            "grid.11696.39"
+                                        ]
+                                    },
                                     "record_image_file": {
                                         "_url": "https://i.imgur.com/B1mt1tL.jpeg"
                                     }
@@ -1364,7 +1290,7 @@
             "name": "MVIF.5",
             "owner_id": 1,
             "type": "symposium",
-            "organisers": [
+            "series_organisers": [
                 {
                     "user_id": 1,
                     "credited_organiser": false

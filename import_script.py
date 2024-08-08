@@ -52,7 +52,7 @@ def csv_to_nested_json(csv_file_path):
                     'speakers': [{
 
                         'email': row['email'],
-                        'record_meta': [{
+                        'record_meta': {
                             'title': row['speaker_title'],
                             'name': row['speaker_name'],
                             'homepage_url': row['homepage_url'],
@@ -62,7 +62,7 @@ def csv_to_nested_json(csv_file_path):
                             'affiliations': [
                                 row['affiliations']
                             ]
-                        }],
+                        },
                         'record_image_file': {
                             '_url': row['_url']
                         }
