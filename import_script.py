@@ -3,7 +3,16 @@ import json
 import pandas as pd
 
 def replace_blanks(row):
-    return {k: v if v != 'unknown' else '' for k, v in row.items()}
+    return {k: v if v != 'unknown' else None for k, v in row.items()}
+
+def remove_null_values(d):
+    if isinstance(d, dict):
+        return {k: remove_null_values(v) for k, v in d.items() if v is not None}
+    elif isinstance(d, list):
+        return [remove_null_values(i) for i in d]
+    else:
+        return d
+
 
 def csv_to_nested_json(csv_file_path):
     df = pd.read_csv(csv_file_path)
@@ -68,7 +77,7 @@ def csv_to_nested_json(csv_file_path):
                             'biography': row['biography'],
                             'department': row['department'],
                             'position': row['position'],
-                            'affiliations': [
+                            'affiliations': None if row['affiliations'] is None else [
                                 row['affiliations']
                             ]
                         },
@@ -90,6 +99,8 @@ def csv_to_nested_json(csv_file_path):
         'files': all_img_urls,
         'video_import_jobs': all_import_urls
     }
+
+    output = remove_null_values(output)
 
     return output
 
