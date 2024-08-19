@@ -5,11 +5,16 @@ import pandas as pd
 def replace_blanks(row):
     return {k: v if v != 'unknown' else None for k, v in row.items()}
 
+
 def remove_null_values(d):
     if isinstance(d, dict):
         return {k: remove_null_values(v) for k, v in d.items() if v is not None}
     elif isinstance(d, list):
-        return [remove_null_values(i) for i in d]
+        # Recursively process each item in the list
+        processed_list = [remove_null_values(item) for item in d if item is not None]
+        # Remove lists that are empty
+        processed_list = [item for item in processed_list if item or (isinstance(item, dict) and item)]
+        return processed_list if processed_list else None
     else:
         return d
 
@@ -21,14 +26,13 @@ def csv_to_nested_json(csv_file_path):
     all_img_urls = [] 
     all_import_urls = []
 
-    # TODO: handle img urls in own object
-    # TODO: handle video upload urls in own object 
 
     # static organiser information
     series_organisers = [ 
-        {'user_id': 1, 'credited_organiser': False},
-        {'user_id': 36670, 'credited_organiser': True},
-        {'user_id': 36752, 'credited_organiser': True},
+        {'user_id': 1, 'credited_organiser': False}
+        # ,
+        # {'user_id': 36670, 'credited_organiser': True},
+        # {'user_id': 36752, 'credited_organiser': True},
     ]
 
     for index, unclean_row in df.iterrows(): # loops through all row in the CSV file
@@ -45,8 +49,8 @@ def csv_to_nested_json(csv_file_path):
         series['series_organisers'] = series_organisers        
         series['description'] = row['description']
         series['visibility'] = row['visibility']
-        series['organisation_id'] = row['organisation_id']
-        # series['timezone'] = row['series_timezone']
+        # series['organisation_id'] = row['organisation_id']
+        series['organisation_id'] = 1
 
         series['events'].append({
             'start': row['start'],
@@ -55,39 +59,37 @@ def csv_to_nested_json(csv_file_path):
             'status': row['status'],
             'import_url': row['import_url'],
             'talks': [
-                {
-                    'title': row['talk_title'],
-                    'abstract': row['abstract'],
-                    'references': 
-                        [
-                            {
-                                'type': row['reference_type'],
-                                'value': row['reference_value'],
-                                'featured': row['reference_featured']   
-                            }
-                            
-                        ],
-                    'speakers': [{
+            {
+                'title': row['talk_title'],
+                'abstract': row['abstract'],
+                'references': 
+                [
+                    {
+                    'type': row['reference_type'],
+                    'value': row['reference_value'],
+                    'featured': row['reference_featured']   
+                    }
+                    
+                ],
+                'speakers': [{
 
-                        'email': row['email'],
-                        'record_meta': {
-                            'title': row['speaker_title'],
-                            'name': row['speaker_name'],
-                            'homepage_url': row['homepage_url'],
-                            'biography': row['biography'],
-                            'department': row['department'],
-                            'position': row['position'],
-                            'affiliations': None if row['affiliations'] is None else [
-                                row['affiliations']
-                            ]
-                        },
-                        'record_image_file': {
-                            '_url': row['_url']
-                        }
-
-                    }],
+                'email': row['email'],
+                'record_meta': {
+                    'title': row['speaker_title'],
+                    'name': row['speaker_name'],
+                    'homepage_url': row['homepage_url'],
+                    'biography': row['biography'],
+                    'department': row['department'],
+                    'position': row['position'],
+                    'affiliations': [row['affiliations']]
+                },
+                'record_image_file': {
+                    '_url': row['_url']
                 }
-            ],
+
+                }],
+            }
+            ] if any(row.values()) else None,
 
         })
 
@@ -108,7 +110,7 @@ def csv_to_nested_json(csv_file_path):
 
 # Replace 'your_file.csv' with the path to your CSV file
 csv_file_path = 'MVIF 1-5'
-json_data = csv_to_nested_json(csv_file_path + '.csv') # this is where it actually becomes a file
+json_data = csv_to_nested_json(csv_file_path + '.csv') # this is where it actually becomes json data
 
 # Pretty-print the JSON data
 print(json.dumps(json_data, indent=4))
