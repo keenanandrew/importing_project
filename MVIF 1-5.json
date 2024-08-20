@@ -204,11 +204,19 @@
                 {
                     "user_id": 1,
                     "credited_organiser": false
+                },
+                {
+                    "user_id": 36670,
+                    "credited_organiser": true
+                },
+                {
+                    "user_id": 36752,
+                    "credited_organiser": true
                 }
             ],
             "description": "MVIF.1 Description goes here",
             "visibility": "open",
-            "organisation_id": 1
+            "organisation_id": 119472
         },
         {
             "events": [
@@ -383,11 +391,19 @@
                 {
                     "user_id": 1,
                     "credited_organiser": false
+                },
+                {
+                    "user_id": 36670,
+                    "credited_organiser": true
+                },
+                {
+                    "user_id": 36752,
+                    "credited_organiser": true
                 }
             ],
             "description": "MVIF.2 Description goes here",
             "visibility": "open",
-            "organisation_id": 1
+            "organisation_id": 119472
         },
         {
             "events": [
@@ -776,11 +792,19 @@
                 {
                     "user_id": 1,
                     "credited_organiser": false
+                },
+                {
+                    "user_id": 36670,
+                    "credited_organiser": true
+                },
+                {
+                    "user_id": 36752,
+                    "credited_organiser": true
                 }
             ],
             "description": "MVIF.3 Description goes here",
             "visibility": "open",
-            "organisation_id": 1
+            "organisation_id": 119472
         },
         {
             "events": [
@@ -1056,11 +1080,19 @@
                 {
                     "user_id": 1,
                     "credited_organiser": false
+                },
+                {
+                    "user_id": 36670,
+                    "credited_organiser": true
+                },
+                {
+                    "user_id": 36752,
+                    "credited_organiser": true
                 }
             ],
             "description": "MVIF.4 Description goes here",
             "visibility": "open",
-            "organisation_id": 1
+            "organisation_id": 119472
         },
         {
             "events": [
@@ -1326,11 +1358,19 @@
                 {
                     "user_id": 1,
                     "credited_organiser": false
+                },
+                {
+                    "user_id": 36670,
+                    "credited_organiser": true
+                },
+                {
+                    "user_id": 36752,
+                    "credited_organiser": true
                 }
             ],
             "description": "MVIF.5 Description goes here",
             "visibility": "open",
-            "organisation_id": 1
+            "organisation_id": 119472
         }
     ],
     "files": [

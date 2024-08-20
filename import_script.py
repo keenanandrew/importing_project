@@ -29,10 +29,9 @@ def csv_to_nested_json(csv_file_path):
 
     # static organiser information
     series_organisers = [ 
-        {'user_id': 1, 'credited_organiser': False}
-        # ,
-        # {'user_id': 36670, 'credited_organiser': True},
-        # {'user_id': 36752, 'credited_organiser': True},
+        {'user_id': 1, 'credited_organiser': False},
+        {'user_id': 36670, 'credited_organiser': True},
+        {'user_id': 36752, 'credited_organiser': True},
     ]
 
     for index, unclean_row in df.iterrows(): # loops through all row in the CSV file
@@ -49,8 +48,8 @@ def csv_to_nested_json(csv_file_path):
         series['series_organisers'] = series_organisers        
         series['description'] = row['description']
         series['visibility'] = row['visibility']
-        # series['organisation_id'] = row['organisation_id']
-        series['organisation_id'] = 1
+        series['organisation_id'] = row['organisation_id']
+        # series['organisation_id'] = 1
 
         series['events'].append({
             'start': row['start'],
