@@ -7,39 +7,26 @@ def replace_blanks(row):
 
 def clean_json(data):
     """
-    Recursively removes keys with empty lists, empty dictionaries, None, null values,
-    lists that only contain an empty dictionary, or dictionaries that only contain an empty list
-    from a JSON object.
-    
-    :param data: The JSON object (dict) or list to clean.
+    Recursively removes keys with:
+    - Empty lists
+    - Empty dictionaries
+    - None or null values
+    - Lists that only contain an empty dictionary
+    - Dictionaries that only contain an empty list
+
+    :param data: The JSON object (dict or list) to clean.
     :return: The cleaned JSON object.
     """
     if isinstance(data, dict):
-        # Recursively clean the dictionary
-        cleaned_dict = {}
-        for k, v in data.items():
-            cleaned_value = clean_json(v)
-            if isinstance(cleaned_value, dict) and not cleaned_value:
-                # Remove if it's an empty dict
-                continue
-            elif isinstance(cleaned_value, list) and (not cleaned_value or cleaned_value == [{}]):
-                # Remove if it's an empty list or a list with an empty dict
-                continue
-            elif cleaned_value == []:
-                # Remove if it's an empty list
-                continue
-            elif cleaned_value is not None:
-                cleaned_dict[k] = cleaned_value
-        return cleaned_dict
+        return {
+            k: v
+            for k, v in ((k, clean_json(v)) for k, v in data.items())
+            if v not in ([], {}, None) and not (isinstance(v, list) and v == [{}])
+        }
     elif isinstance(data, list):
-        # Recursively clean the list
         cleaned_list = [clean_json(item) for item in data if item not in ([], {}, None)]
-        if cleaned_list == [{}] or cleaned_list == [{}] * len(cleaned_list):
-            return []  # Remove list if it only contains empty dictionaries
-        return cleaned_list
-    else:
-        # Return the value itself if it's not a list or dict
-        return data
+        return cleaned_list if cleaned_list not in ([{}], []) else []
+    return data
 
 def csv_to_nested_json(csv_file_path):
     df = pd.read_csv(csv_file_path)
