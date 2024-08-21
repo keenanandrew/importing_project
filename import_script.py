@@ -1,8 +1,7 @@
-import csv
 import json
 import pandas as pd
 
-def replace_blanks(row):
+def replace_unknowns(row):
     return {k: v if v != 'unknown' else None for k, v in row.items()}
 
 def clean_json(data):
@@ -42,8 +41,8 @@ def csv_to_nested_json(csv_file_path):
         {'user_id': 36752, 'credited_organiser': True},
     ]
 
-    for index, unclean_row in df.iterrows(): # loops through all row in the CSV file
-        row = replace_blanks(unclean_row) # replaces all blank cells with empty string
+    for _, unclean_row in df.iterrows(): # loops through all row in the CSV file
+        row = replace_unknowns(unclean_row) # replaces all blank/'unknown' cells with empty string
         if row['series_name'] not in all_series: # if series_name not already in dict...
 
             all_series[row['series_name']] = {'events': [] }
@@ -57,7 +56,6 @@ def csv_to_nested_json(csv_file_path):
         series['description'] = row['description']
         series['visibility'] = row['visibility']
         series['organisation_id'] = row['organisation_id']
-        # series['organisation_id'] = 1
 
         series['events'].append({
             'start': row['start'],
