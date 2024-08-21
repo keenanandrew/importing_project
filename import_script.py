@@ -5,19 +5,41 @@ import pandas as pd
 def replace_blanks(row):
     return {k: v if v != 'unknown' else None for k, v in row.items()}
 
-
-def remove_null_values(d):
-    if isinstance(d, dict):
-        return {k: remove_null_values(v) for k, v in d.items() if v is not None}
-    elif isinstance(d, list):
-        # Recursively process each item in the list
-        processed_list = [remove_null_values(item) for item in d if item is not None]
-        # Remove lists that are empty
-        processed_list = [item for item in processed_list if item or (isinstance(item, dict) and item)]
-        return processed_list if processed_list else None
+def clean_json(data):
+    """
+    Recursively removes keys with empty lists, empty dictionaries, None, null values,
+    lists that only contain an empty dictionary, or dictionaries that only contain an empty list
+    from a JSON object.
+    
+    :param data: The JSON object (dict) or list to clean.
+    :return: The cleaned JSON object.
+    """
+    if isinstance(data, dict):
+        # Recursively clean the dictionary
+        cleaned_dict = {}
+        for k, v in data.items():
+            cleaned_value = clean_json(v)
+            if isinstance(cleaned_value, dict) and not cleaned_value:
+                # Remove if it's an empty dict
+                continue
+            elif isinstance(cleaned_value, list) and (not cleaned_value or cleaned_value == [{}]):
+                # Remove if it's an empty list or a list with an empty dict
+                continue
+            elif cleaned_value == []:
+                # Remove if it's an empty list
+                continue
+            elif cleaned_value is not None:
+                cleaned_dict[k] = cleaned_value
+        return cleaned_dict
+    elif isinstance(data, list):
+        # Recursively clean the list
+        cleaned_list = [clean_json(item) for item in data if item not in ([], {}, None)]
+        if cleaned_list == [{}] or cleaned_list == [{}] * len(cleaned_list):
+            return []  # Remove list if it only contains empty dictionaries
+        return cleaned_list
     else:
-        return d
-
+        # Return the value itself if it's not a list or dict
+        return data
 
 def csv_to_nested_json(csv_file_path):
     df = pd.read_csv(csv_file_path)
@@ -25,7 +47,6 @@ def csv_to_nested_json(csv_file_path):
     all_series = {} # create an empty dictionary 
     all_img_urls = [] 
     all_import_urls = []
-
 
     # static organiser information
     series_organisers = [ 
@@ -101,7 +122,7 @@ def csv_to_nested_json(csv_file_path):
         'video_import_jobs': all_import_urls
     }
 
-    output = remove_null_values(output)
+    output = clean_json(output)
 
     return output
 
